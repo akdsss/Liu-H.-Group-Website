@@ -3,18 +3,18 @@
 title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 朱
+last_name: 有量
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 课题组负责人
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 吉林大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
