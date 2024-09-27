@@ -55,9 +55,9 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: 最近发表
+  - block: collection
     content:
-      title: Latest Preprints
+      title: 最新发表
       text: ""
       count: 5
       filters:
