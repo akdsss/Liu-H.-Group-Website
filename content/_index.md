@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Zhuyl Group
+        朱有亮课题组
       image:
         filename: welcome.jpg
       text: |
@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 组内新闻
       subtitle:
       text:
       count: 5
@@ -55,7 +55,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
+  - block: 最近发表
     content:
       title: Latest Preprints
       text: ""
