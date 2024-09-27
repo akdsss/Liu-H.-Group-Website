@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Zhuyl Group
       image:
         filename: welcome.jpg
       text: |
