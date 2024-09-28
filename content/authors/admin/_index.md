@@ -18,24 +18,33 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 研究方向包括高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 高分子/超分子的大尺度分子动力学模拟方法和软件
+  - 高分子材料力学性能的分子机理
+  - 共价有机框架的生长动力学
 
-education:
+教育与工作经历:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 准聘副教授 
+      institution: 吉林大学化学学院
+      year: 2021.7－至今
+    - course: 副研究员
+      institution: 中科院长春应用化学研究所
+      year: 2017.1－2021.7
+    - course: 助理研究员
+      institution: 中科院长春应用化学研究所
+      year: 2016.1－2017.1
+    - course: 博士后
+      institution: 中科院长春应用化学研究所
+      year: 2014.1－2016.1
+    - course: 硕博连读理学博士学位
+      institution: 吉林大学理论化学研究所
+      year: 2008.9－2013.12
+    - course: 材料化学专业理学学士学位
+      institution: 吉林大学化学学院
+      year: 2003.9－2007.7
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
