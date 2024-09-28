@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 欢迎访问朱有亮课题组
         content: Take a look at what we're working on...
         align: center
         background:
