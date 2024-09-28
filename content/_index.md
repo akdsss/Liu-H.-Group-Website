@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        朱有亮课题组
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        朱有亮课题组介绍
   
   - block: collection
     content:
-      title: Latest News
+      title: 组内新闻
       subtitle:
       text:
       count: 5
@@ -58,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 最新发表
       text: ""
       count: 5
       filters:
