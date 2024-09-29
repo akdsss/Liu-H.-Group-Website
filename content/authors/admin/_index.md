@@ -53,7 +53,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'youliangzhu@jlu.edu.cn'
+    link: 'mailto:test@example.org'
   - icon: github
     icon_pack: fab
     link: https://github.com/youliangzhu
