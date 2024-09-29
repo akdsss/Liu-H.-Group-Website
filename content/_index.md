@@ -10,7 +10,7 @@ sections:
       title:
       subtitle: ''
       text: | 
-      Background
+        Background
     # design:
     #   columns: '1'
     #   background:
@@ -25,7 +25,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-      
+
   - block: hero
     content:
       title: |
