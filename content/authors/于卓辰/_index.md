@@ -30,13 +30,13 @@ interests:
 
 education:
   courses:
-    -	course: 物理化学专业博⼠
+    - course: 物理化学专业博⼠
       institution: 吉林⼤学化学学院
       year: 2022.9 - ⾄今
-    -	course: 物理化学专业硕士
+    - course: 物理化学专业硕士
       institution: 吉林⼤学化学学院
       year: 2020.9 – 2022.9
-    -	course: 化学⼯程与⼯艺专业学⼠
+    - course: 化学⼯程与⼯艺专业学⼠
       institution: 吉林⼤学化学学院
       year: 2016.9 – 2020.7
 
