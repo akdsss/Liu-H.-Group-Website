@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xujl24@mails.jlu.edu.cn'
+    link: 'mailto:xujl24@mails.jlu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/Llisten-xujl
