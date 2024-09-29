@@ -6,13 +6,13 @@
 main:
   - name: 浏览
     url: tour
-    weight: 10
+    weight: 20
   - name: 组内成员
     url: people
     weight: 30
   - name: 组内新闻
     url: post
-    weight: 20
+    weight: 40
   - name: 发表论文
     url: publication
     weight: 50
