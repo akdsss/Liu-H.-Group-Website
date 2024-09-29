@@ -29,12 +29,12 @@ interests:
 
 education:
   courses:
-    - course: 化学工程与工艺专业学士
-      institution: 吉林大学化学学院
-      year: 2020.9 - 2024.7
     - course: 物理化学专业博士
       institution: 吉林大学化学学院
       year: 2024.9 - 至今
+    - course: 化学工程与工艺专业学士
+      institution: 吉林大学化学学院
+      year: 2020.9 - 2024.7
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
