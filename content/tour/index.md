@@ -12,7 +12,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: tour_background.jpg
             filters:
               brightness: 0.7
           position: right
