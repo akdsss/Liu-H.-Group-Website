@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 研究方向包括高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等。
 
-研究兴趣:
+interests:
   - 高分子/超分子的大尺度分子动力学模拟方法和软件
   - 高分子材料力学性能的分子机理
   - 共价有机框架的生长动力学
 
-courses:
+education:
   courses:
     - course: 准聘副教授 
       institution: 吉林大学化学学院
