@@ -8,10 +8,11 @@ type: landing
     content:
       title:
       subtitle: ''
-      text: Background
-    design:
-      columns: '1'
-      background:
+      text: | 
+      Background
+    # design:
+    #   columns: '1'
+    #   background:
         # image: 
         #   filename: coders.jpg
         #   filters:
