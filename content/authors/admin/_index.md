@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 研究方向包括高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等。
 
-interests:
+研究兴趣:
   - 高分子/超分子的大尺度分子动力学模拟方法和软件
   - 高分子材料力学性能的分子机理
   - 共价有机框架的生长动力学
 
-教育与工作经历:
+courses:
   courses:
     - course: 准聘副教授 
       institution: 吉林大学化学学院
@@ -64,10 +64,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'youliangzhu@jlu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
