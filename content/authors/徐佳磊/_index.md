@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生（2024级）
+role: 直博；博士一年级
 
 # Organizations/Affiliations
 organizations:
