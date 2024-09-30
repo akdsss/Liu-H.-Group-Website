@@ -33,10 +33,10 @@ education:
   courses:
     - course: 化学专业博士
       institution: 吉林大学化学学院
-      year: 2023.09-至今
+      year: 2023.09 - 至今
     - course: 物理化学专业硕士
       institution: 吉林大学化学学院
-      year: 2021.09-2023.09
+      year: 2021.09 - 2023.09
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,4 +61,3 @@ user_groups:
   - 学生
 ---
 
-徐佳磊自我介绍
