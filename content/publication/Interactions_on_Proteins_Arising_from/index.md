@@ -2,7 +2,7 @@
 title: Interactions on Proteins Arising from the Self-Assembly of a Polyelectrolyte Brush
 authors:
 - Yunming Yao
-- You-Liang Zhu
+- 朱有亮
 - Xiaoyuan Ma
 - Junfeng Zhou
 date: '2022-06-28'

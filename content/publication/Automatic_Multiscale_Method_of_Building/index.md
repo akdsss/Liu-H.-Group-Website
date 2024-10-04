@@ -2,7 +2,7 @@
 title: Automatic Multiscale Method of Building up a Cross-linked Polymer  Reaction System:Bridging SMILES to the Multiscale Molecular Dynamics  Simulation
 authors:
 - Han-Wen Pei
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 - Jun-Peng Li
 - Zhao-Yan Sun

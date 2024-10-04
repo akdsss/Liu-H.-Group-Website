@@ -3,7 +3,7 @@ title: Probing Intermittent Motion of Polymer Chains in Weakly Attractive Nanoco
 authors:
 - Li-Jun Dai
 - Cui-Liu Fu
-- You-Liang Zhu
+- 朱有亮
 - Zhan-Wei Li
 - Zhao-Yan Sun
 date: '06/2020'

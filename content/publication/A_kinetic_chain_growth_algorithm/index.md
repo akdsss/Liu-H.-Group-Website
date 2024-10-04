@@ -2,7 +2,7 @@
 title: A kinetic chain growth algorithm in coarse-grained simulations
 authors:
 - Hong Liu
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 - Florian Müller-Plathe
 date: '2016'

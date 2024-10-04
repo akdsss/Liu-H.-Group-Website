@@ -4,7 +4,7 @@ authors:
 - Yan-Kai Li
 - Yu-Ge Wang
 - Cui-Liu Fu
-- You-Liang Zhu
+- 朱有亮
 - Zhan-Wei Li
 - Zhao-Yan Sun
 date: '2020-05-04'

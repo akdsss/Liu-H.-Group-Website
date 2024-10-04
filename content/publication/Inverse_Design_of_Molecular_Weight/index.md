@@ -3,7 +3,7 @@ title: Inverse Design of Molecular Weight Distribution in Controlled Polymerizat
 authors:
 - Hong Liu
 - Yao-Hong Xue
-- You-Liang Zhu
+- 朱有亮
 - Feng-Long Gu
 - Zhong-Yuan Lu
 date: '2020-08-11'

@@ -2,7 +2,7 @@
 title: Decoupling of relaxation and diffusion in random pinning glass-forming liquids
 authors:
 - Yan-Wei Li
-- You-Liang Zhu
+- 朱有亮
 - Zhao-Yan Sun
 date: '2015-03-28'
 doi: 10.1063/1.4916208

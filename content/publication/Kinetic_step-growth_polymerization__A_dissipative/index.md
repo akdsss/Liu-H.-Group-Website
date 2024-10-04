@@ -1,9 +1,9 @@
 ---
-title: Kinetic step-growth polymerization:A dissipative particle dynamics simulation study
+title: Kinetic step-growth polymerization: A dissipative particle dynamics simulation study
 authors:
 - Dan Xu
 - Chun-Yan Ni
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Yao-Hong Xue
 - Hong Liu

@@ -5,7 +5,7 @@ authors:
 - Xiuxiu Yin
 - Fengxue Duan
 - Yingjie Cheng
-- Xin Pu
+- 蒲鑫
 - You‐Liang Zhu
 - Yingjin Wei
 - Yizhan Wang

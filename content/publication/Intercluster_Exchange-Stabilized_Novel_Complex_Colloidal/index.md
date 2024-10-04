@@ -3,7 +3,7 @@ title: Intercluster Exchange-Stabilized Novel Complex Colloidal χ <sub>c</sub> 
 authors:
 - Yu-Wei Sun
 - Zi-Qin Chen
-- You-Liang Zhu
+- 朱有亮
 - Zhan-Wei Li
 - Zhong-Yuan Lu
 - Zhao-Yan Sun

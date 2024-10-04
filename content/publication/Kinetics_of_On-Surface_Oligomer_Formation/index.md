@@ -5,7 +5,7 @@ authors:
 - Rui Shi
 - Li−Li Zhang
 - Huan-Yu Zhao
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 date: '2024-06-11'
 doi: 10.1021/acs.macromol.3c02153

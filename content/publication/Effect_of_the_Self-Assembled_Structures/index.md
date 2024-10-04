@@ -1,7 +1,7 @@
 ---
 title: Effect of the Self-Assembled Structures of Hydrated Polyzwitterionic and Polyanionic Brushes on Their Self-Cleaning Capabilities
 authors:
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 - Zhan-Wei Li
 - Zhao-Yan Sun

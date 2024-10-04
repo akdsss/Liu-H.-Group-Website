@@ -4,7 +4,7 @@ authors:
 - Zhan-Wei Li
 - Yu-Wei Sun
 - Yan-Hui Wang
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
 date: '2021-08-05'

@@ -4,7 +4,7 @@ authors:
 - Qingliang Song
 - Qingshu Dong
 - Xue-Hui Dong
-- You-Liang Zhu
+- 朱有亮
 - Weihua Li
 date: '2021-09-28'
 doi: 10.1021/acs.macromol.1c01431

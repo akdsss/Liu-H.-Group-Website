@@ -4,7 +4,7 @@ authors:
 - Han-Wen Pei
 - Xiao-Li Liu
 - Hong Liu
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 date: '2017-02-08'
 doi: 10.1039/C6CP07596G

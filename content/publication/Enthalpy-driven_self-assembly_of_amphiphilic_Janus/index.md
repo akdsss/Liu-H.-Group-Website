@@ -3,7 +3,7 @@ title: Enthalpy-driven self-assembly of amphiphilic Janus dendrimers into onion-
 authors:
 - Fang-Fang Hu
 - Yu-Wei Sun
-- You-Liang Zhu
+- 朱有亮
 - Yi-Neng Huang
 - Zhan-Wei Li
 - Zhao-Yan Sun

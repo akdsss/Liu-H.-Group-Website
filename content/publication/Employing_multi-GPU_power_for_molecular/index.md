@@ -1,7 +1,7 @@
 ---
 title: Employing multi-GPU power for molecular dynamics simulation:an extension of GALAMOST
 authors:
-- You-Liang Zhu
+- 朱有亮
 - Deng Pan
 - Zhan-Wei Li
 - Hong Liu

@@ -3,7 +3,7 @@ title: The design of highly conductive and stretchable polymer conductors with l
 authors:
 - Yu-Ting Sun
 - Can Zhao
-- You-Liang Zhu
+- 朱有亮
 - Jun-Lei Guan
 - Li-Li Zhang
 - Lai Wei

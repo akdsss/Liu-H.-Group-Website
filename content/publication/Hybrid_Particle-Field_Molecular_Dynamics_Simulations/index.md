@@ -9,7 +9,7 @@ authors:
 - Jürgen Gauss
 - Toshihiro Kawakatsu
 - Zhong-Yuan Lu
-- You-Liang Zhu
+- 朱有亮
 - Giuseppe Milano
 - Michele Cascella
 date: '日期信息未提供'

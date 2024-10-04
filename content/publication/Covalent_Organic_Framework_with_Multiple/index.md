@@ -2,7 +2,7 @@
 title: Covalent Organic Framework with Multiple Redox Active Sites for High-Performance Aqueous Calcium Ion Batteries
 authors:
 - Siqi Zhang
-- You-Liang Zhu
+- 朱有亮
 - Siyuan Ren
 - Chunguang Li
 - Xiao-Bo Chen

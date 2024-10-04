@@ -4,7 +4,7 @@ authors:
 - Han-Wen Pei
 - Hong Liu
 - Zhong-Yuan Lu
-- You-Liang Zhu
+- 朱有亮
 date: '2015-2-3'
 doi: 10.1103/PhysRevE.91.020401
 publish_types: 期刊文章

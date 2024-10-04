@@ -2,7 +2,7 @@
 title: Synthesize Multiblock Copolymers via Complex Formations between  β-Cyclodextrin and Adamantane Groups Terminated at Diblock Copolymer  Ends:A Brownian Dynamics Simulation Study
 authors:
 - Wei Wang
-- You-Liang Zhu
+- 朱有亮
 - Hu-Jun Qian
 - Zhong-Yuan Lu
 date: '2013-12-19'

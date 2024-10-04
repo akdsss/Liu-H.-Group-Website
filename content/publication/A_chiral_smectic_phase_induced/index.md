@@ -3,7 +3,7 @@ title: A chiral smectic phase induced by an alternating external field
 authors:
 - Zi-Qin Chen
 - Yu-Wei Sun
-- You-Liang Zhu
+- 朱有亮
 - Zhan-Wei Li
 - Zhao-Yan Sun
 date: '2022-03-30'

@@ -2,7 +2,7 @@
 title: Ionic-Nanophase Hybridization of Nafion by Supramolecular Patching for Enhanced Proton Selectivity in Redox Flow Batteries
 authors:
 - Liang Zhai
-- You-Liang Zhu
+- 朱有亮
 - Gang Wang
 - Haibo He
 - Feiran Wang

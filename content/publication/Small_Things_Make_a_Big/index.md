@@ -5,8 +5,8 @@ authors:
 - Ruiyuan Tian
 - Yifan Zhao
 - Zhixuan Wei
-- Xin Pu
-- You-Liang Zhu
+- 蒲鑫
+- 朱有亮
 - Dong Zhang
 - Fei Du
 date: '2023-11-22'

@@ -2,7 +2,7 @@
 title: Self-assembly of two-patch particles in solution:a Brownian dynamics simulation study
 authors:
 - Yang Li
-- You-Liang Zhu
+- 朱有亮
 - Yan-Chun Li
 - Hu-Jun Qian
 - Chia-Chung Sun

@@ -2,7 +2,7 @@
 title: Brownian dynamics simulation study on the self-assembly of incompatible star-like block copolymers in dilute solution
 authors:
 - Bin Li
-- You-Liang Zhu
+- 朱有亮
 - Hong Liu
 - Zhong-Yuan Lu
 date: '2012-03-14'

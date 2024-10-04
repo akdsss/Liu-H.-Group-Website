@@ -3,7 +3,7 @@ title: Understanding the wettability of a hairy surface:effect of hair rigidity 
 authors:
 - Han-Wen Pei
 - Hong Liu
-- You-Liang Zhu
+- 朱有亮
 - Zhong-Yuan Lu
 date: '2016-07-13'
 doi: 10.1039/C6CP02376B

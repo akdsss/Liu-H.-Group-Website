@@ -1,7 +1,7 @@
 ---
-title: GALAMOST:GPU-accelerated large-scale molecular simulation toolkit
+title: GALAMOST: GPU-accelerated large-scale molecular simulation toolkit
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Hong Liu
 - Zhan-Wei Li
 - Hu-Jun Qian

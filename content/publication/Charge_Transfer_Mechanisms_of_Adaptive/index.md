@@ -4,8 +4,8 @@ authors:
 - Yanxu Lu
 - Leibo Li
 - Shengdao Wang
-- Xin Pu
-- You-Liang Zhu
+- 蒲鑫
+- 朱有亮
 - Yanchao Yang
 - Jiashuang Luan
 - Shuling Zhang

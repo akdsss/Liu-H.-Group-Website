@@ -2,7 +2,7 @@
 title: Brownian Diffusion of Individual Janus Nanoparticles at Water/Oil Interfaces
 authors:
 - Dapeng Wang
-- You-Liang Zhu
+- 朱有亮
 - Yuehua Zhao
 - Christopher Y. Li
 - Ashis Mukhopadhyay

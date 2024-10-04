@@ -1,7 +1,7 @@
 ---
 title: Building Block Design for Minimizing Defects in the Construction of Two-Dimensional Covalent Organic Frameworks
 authors:
-- You-Liang Zhu
+- 朱有亮
 - Cui-Liu Fu
 - Zhan-Wei Li
 - Zhao-Yan Sun

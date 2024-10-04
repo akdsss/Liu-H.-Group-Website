@@ -6,7 +6,7 @@ authors:
 - Jun-Peng Li
 - Xing-Ji Li
 - Jian-Qun Yang
-- You-Liang Zhu
+- 朱有亮
 - Zhongyuan Lu
 date: '2022-08-04'
 doi: 10.1021/acs.jpclett.2c01743
