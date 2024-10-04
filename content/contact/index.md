@@ -19,9 +19,6 @@ sections:
         postcode: '130012'
         country: 中国
         country_code: CN
-      coordinates:
-        latitude: '125.32'
-        longitude: '43.88'
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
