@@ -1,7 +1,8 @@
 ---
 title: "An example preprint / working paper"
 authors:
-- admin
+- 朱有亮
+- 徐佳磊
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
