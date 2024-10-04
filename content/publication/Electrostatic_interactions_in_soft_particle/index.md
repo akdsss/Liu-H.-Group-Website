@@ -1,5 +1,5 @@
 ---
-title: Electrostatic interactions in soft particle systems: mesoscale simulations of ionic liquids
+title: Electrostatic interactions in soft particle systems:mesoscale simulations of ionic liquids
 authors:
 - Yong-Lei Wang
 - You-Liang Zhu

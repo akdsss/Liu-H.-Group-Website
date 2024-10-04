@@ -1,5 +1,5 @@
 ---
-title: Coarse-grained Dynamics Simulation in Polymer Systems: from Structures to Material Properties
+title: Coarse-grained Dynamics Simulation in Polymer Systems:from Structures to Material Properties
 authors:
 - Huimin Gao
 - Rui Shi

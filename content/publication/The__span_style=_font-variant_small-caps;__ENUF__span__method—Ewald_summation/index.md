@@ -1,5 +1,5 @@
 ---
-title: The <span  style="font-variant:small-caps;">ENUF</span> method—Ewald  summation based on <span  style="font-variant:small-caps;">nonuniform</span> fast Fourier  transform: Implementation, parallelization, and application
+title: The <span  style="font-variant:small-caps;">ENUF</span> method—Ewald  summation based on <span  style="font-variant:small-caps;">nonuniform</span> fast Fourier  transform:Implementation, parallelization, and application
 authors:
 - Sheng‐Chun Yang
 - Bin Li

@@ -1,5 +1,5 @@
 ---
-title: Polymer-grafted nanoparticles prepared by surface-initiated  polymerization: the characterization of polymer chain conformation,  grafting density and polydispersity correlated to the grafting surface  curvature
+title: Polymer-grafted nanoparticles prepared by surface-initiated  polymerization:the characterization of polymer chain conformation,  grafting density and polydispersity correlated to the grafting surface  curvature
 authors:
 - Yao-Hong Xue
 - You-Liang Zhu

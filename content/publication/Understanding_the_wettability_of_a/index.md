@@ -1,5 +1,5 @@
 ---
-title: Understanding the wettability of a hairy surface: effect of hair rigidity and topology
+title: Understanding the wettability of a hairy surface:effect of hair rigidity and topology
 authors:
 - Han-Wen Pei
 - Hong Liu

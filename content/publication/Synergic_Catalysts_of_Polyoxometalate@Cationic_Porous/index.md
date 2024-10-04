@@ -1,5 +1,5 @@
 ---
-title: Synergic Catalysts of Polyoxometalate@Cationic Porous Aromatic  Frameworks: Reciprocal Modulation of Both Capture and Conversion  Materials
+title: Synergic Catalysts of Polyoxometalate@Cationic Porous Aromatic  Frameworks:Reciprocal Modulation of Both Capture and Conversion  Materials
 authors:
 - Jian Song
 - Yue Li
