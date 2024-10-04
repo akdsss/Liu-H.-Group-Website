@@ -11,7 +11,7 @@ authors:
 - Katie R. Meihaus
 - Jeffrey R. Long
 - Guangshan Zhu
-date: 2018-11-21
+date: '2018-11-21'
 doi: 10.1021/jacs.8b08174
 publish_types: 期刊文章
 publication: Journal of the American Chemical Society

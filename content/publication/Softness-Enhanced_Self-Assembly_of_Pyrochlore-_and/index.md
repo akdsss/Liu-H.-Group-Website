@@ -7,7 +7,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2021-08-05
+date: '2021-08-05'
 doi: 10.1021/acs.jpclett.1c01969
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry Letters

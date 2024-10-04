@@ -6,7 +6,7 @@ authors:
 - You-Liang Zhu
 - Zhao-Yan Sun
 - Li-Jia An
-date: 2012-12-11
+date: '2012-12-11'
 doi: 10.1039/C2RA22108J
 publish_types: 期刊文章
 publication: RSC Advances

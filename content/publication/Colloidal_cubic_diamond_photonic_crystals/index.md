@@ -6,7 +6,7 @@ authors:
 - Zi-Qin Chen
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2022-03-30
+date: '2022-03-30'
 doi: 10.1039/D1SM01770E
 publish_types: 期刊文章
 publication: Soft Matter

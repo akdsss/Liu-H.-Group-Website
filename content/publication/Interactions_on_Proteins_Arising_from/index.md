@@ -5,7 +5,7 @@ authors:
 - You-Liang Zhu
 - Xiaoyuan Ma
 - Junfeng Zhou
-date: 2022-06-28
+date: '2022-06-28'
 doi: 10.1021/acs.langmuir.2c00801
 publish_types: 期刊文章
 publication: Langmuir

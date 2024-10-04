@@ -8,7 +8,7 @@ authors:
 - Bing Li
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2023-05-24
+date: '2023-05-24'
 doi: 10.1039/D2SM01706G
 publish_types: 期刊文章
 publication: Soft Matter

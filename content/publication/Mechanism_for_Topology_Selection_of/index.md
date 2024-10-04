@@ -8,7 +8,7 @@ authors:
 - Jian-Qun Yang
 - You-Liang Zhu
 - Zhongyuan Lu
-date: 2022-08-04
+date: '2022-08-04'
 doi: 10.1021/acs.jpclett.2c01743
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry Letters

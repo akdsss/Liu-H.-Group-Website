@@ -12,7 +12,7 @@ authors:
 - You-Liang Zhu
 - Giuseppe Milano
 - Michele Cascella
-date: 日期信息未提供
+date: '日期信息未提供'
 doi: DOI信息未提供
 publish_types: 期刊文章
 publication: 期刊信息未提供

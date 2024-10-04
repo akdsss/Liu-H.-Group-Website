@@ -5,7 +5,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Florian Müller-Plathe
-date: 2016
+date: '2016'
 doi: 10.1002/jcc.24495
 publish_types: 期刊文章
 publication: Journal of Computational Chemistry

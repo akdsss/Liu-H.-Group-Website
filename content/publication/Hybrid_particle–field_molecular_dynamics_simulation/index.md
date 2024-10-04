@@ -6,7 +6,7 @@ authors:
 - Giuseppe Milano
 - An-Chang Shi
 - Zhao-Yan Sun
-date: 2016-03-30
+date: '2016-03-30'
 doi: 10.1039/C5CP06856H
 publish_types: 期刊文章
 publication: Physical Chemistry Chemical Physics

@@ -10,7 +10,7 @@ authors:
 - Yu Han
 - Zhan Shi
 - Shouhua Feng
-date: 2023-08-09
+date: '2023-08-09'
 doi: 10.1021/jacs.3c04657
 publish_types: 期刊文章
 publication: Journal of the American Chemical Society

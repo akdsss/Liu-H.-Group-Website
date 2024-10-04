@@ -8,7 +8,7 @@ authors:
 - Jina Wang
 - Zhixin Li
 - Yun Bao
-date: 2020/11
+date: '2020/11'
 doi: 10.3390/nano10112108
 publish_types: 期刊文章
 publication: Nanomaterials

@@ -6,7 +6,7 @@ authors:
 - You-Liang Zhu
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: 06/2020
+date: '06/2020'
 doi: 10.1007/s10118-020-2352-7
 publish_types: 期刊文章
 publication: Chinese Journal of Polymer Science

@@ -5,7 +5,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Aatto Laaksonen
-date: 2018-05-30
+date: '2018-05-30'
 doi: 10.1039/C8SM00387D
 publish_types: 期刊文章
 publication: Soft Matter

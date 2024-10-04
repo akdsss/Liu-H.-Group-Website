@@ -7,7 +7,7 @@ authors:
 - You-Liang Zhu
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: 2020-05-04
+date: '2020-05-04'
 doi: 10.1039/D0CE00112K
 publish_types: 期刊文章
 publication: CrystEngComm

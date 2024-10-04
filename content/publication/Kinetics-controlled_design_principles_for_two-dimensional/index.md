@@ -7,7 +7,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2020-02-20
+date: '2020-02-20'
 doi: 10.1039/C9NR09656F
 publish_types: 期刊文章
 publication: Nanoscale

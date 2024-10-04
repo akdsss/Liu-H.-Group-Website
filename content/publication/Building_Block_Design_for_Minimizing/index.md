@@ -5,7 +5,7 @@ authors:
 - Cui-Liu Fu
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: 2020-01-02
+date: '2020-01-02'
 doi: 10.1021/acs.jpclett.9b03420
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry Letters

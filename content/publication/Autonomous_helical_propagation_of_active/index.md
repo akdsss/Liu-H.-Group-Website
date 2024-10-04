@@ -8,7 +8,7 @@ authors:
 - Haonan Sun
 - Zhongyuan Lu
 - Myongsoo Lee
-date: 2019-03-06
+date: '2019-03-06'
 doi: 10.1038/s41467-019-09099-9
 publish_types: 期刊文章
 publication: Nature Communications

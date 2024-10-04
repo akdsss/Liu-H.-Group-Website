@@ -4,7 +4,7 @@ authors:
 - Yan-Wei Li
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2015-03-28
+date: '2015-03-28'
 doi: 10.1063/1.4916208
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

@@ -10,7 +10,7 @@ authors:
 - Zhongyuan Lu
 - Bai Yang
 - Junqi Sun
-date: 2023-10-04
+date: '2023-10-04'
 doi: 10.31635/ccschem.022.202202496
 publish_types: 期刊文章
 publication: CCS Chemistry

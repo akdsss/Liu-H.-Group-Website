@@ -7,7 +7,7 @@ authors:
 - Yi-Neng Huang
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: 2019-09-26
+date: '2019-09-26'
 doi: 10.1039/C9NR05885K
 publish_types: 期刊文章
 publication: Nanoscale

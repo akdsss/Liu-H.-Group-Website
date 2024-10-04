@@ -6,7 +6,7 @@ authors:
 - Yan-Chun Li
 - Hu-Jun Qian
 - Chia-Chung Sun
-date: 2014-05-03
+date: '2014-05-03'
 doi: 10.1080/08927022.2013.819430
 publish_types: 期刊文章
 publication: Molecular Simulation

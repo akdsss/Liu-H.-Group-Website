@@ -9,7 +9,7 @@ authors:
 - Tingting Ma
 - Mo Chen
 - Guangshan Zhu
-date: 2019-01-02
+date: '2019-01-02'
 doi: 10.1039/C8SC03727B
 publish_types: 期刊文章
 publication: Chemical Science

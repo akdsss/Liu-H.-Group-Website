@@ -5,7 +5,7 @@ authors:
 - Hong Liu
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2016-02-25
+date: '2016-02-25'
 doi: 10.1039/C5NR07497E
 publish_types: 期刊文章
 publication: Nanoscale

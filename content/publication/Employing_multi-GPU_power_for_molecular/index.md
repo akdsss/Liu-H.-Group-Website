@@ -9,7 +9,7 @@ authors:
 - Yang Zhao
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2018-04-18
+date: '2018-04-18'
 doi: 10.1080/00268976.2018.1434904
 publish_types: 期刊文章
 publication: Molecular Physics

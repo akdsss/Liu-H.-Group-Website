@@ -4,7 +4,7 @@ authors:
 - You-Liang Zhu
 - Hong Liu
 - Zhong-Yuan Lu
-date: 2012-04-14
+date: '2012-04-14'
 doi: 10.1063/1.3702942
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

@@ -13,7 +13,7 @@ authors:
 - You‐Liang Zhu
 - Jun Chen
 - Swee Ching Tan
-date: 06/2023
+date: '06/2023'
 doi: 10.1002/adma.202207916
 publish_types: 期刊文章
 publication: Advanced Materials

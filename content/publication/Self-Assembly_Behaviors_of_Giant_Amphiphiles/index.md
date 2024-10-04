@@ -6,7 +6,7 @@ authors:
 - Xue-Hui Dong
 - You-Liang Zhu
 - Weihua Li
-date: 2021-09-28
+date: '2021-09-28'
 doi: 10.1021/acs.macromol.1c01431
 publish_types: 期刊文章
 publication: Macromolecules

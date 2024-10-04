@@ -10,7 +10,7 @@ authors:
 - Jiashuang Luan
 - Shuling Zhang
 - Guibin Wang
-date: 2024-08-21
+date: '2024-08-21'
 doi: 10.1021/acs.nanolett.4c03174
 publish_types: 期刊文章
 publication: Nano Letters

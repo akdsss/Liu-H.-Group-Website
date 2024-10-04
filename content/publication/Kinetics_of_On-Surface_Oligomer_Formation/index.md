@@ -7,7 +7,7 @@ authors:
 - Huan-Yu Zhao
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2024-06-11
+date: '2024-06-11'
 doi: 10.1021/acs.macromol.3c02153
 publish_types: 期刊文章
 publication: Macromolecules

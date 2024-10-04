@@ -8,7 +8,7 @@ authors:
 - Zhaoyan Sun
 - Jizhong Chen
 - Yunqi Li
-date: 2016-3-17
+date: '2016-3-17'
 doi: 10.1371/journal.pone.0151704
 publish_types: 期刊文章
 publication: PLOS ONE

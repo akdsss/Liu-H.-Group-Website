@@ -12,7 +12,7 @@ authors:
 - Daxin Liang
 - Jian Li
 - Yanjun Xie
-date: 2020-09-09
+date: '2020-09-09'
 doi: 10.1021/acsami.0c12504
 publish_types: 期刊文章
 publication: ACS Applied Materials & Interfaces

@@ -7,7 +7,7 @@ authors:
 - Wenbo Sun
 - Yang Li
 - Lehui Lu
-date: 2020-04-27
+date: '2020-04-27'
 doi: 10.1021/acsaem.0c00444
 publish_types: 期刊文章
 publication: ACS Applied Energy Materials

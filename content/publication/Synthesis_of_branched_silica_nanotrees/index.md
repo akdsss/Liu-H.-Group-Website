@@ -16,7 +16,7 @@ authors:
 - Zhongyuan Lu
 - Xiaomin Li
 - Dongyuan Zhao
-date: 2023-11-09
+date: '2023-11-09'
 doi: 10.1038/s44160-023-00434-z
 publish_types: 期刊文章
 publication: Nature Synthesis

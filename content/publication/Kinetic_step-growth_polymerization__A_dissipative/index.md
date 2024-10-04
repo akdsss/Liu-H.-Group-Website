@@ -7,7 +7,7 @@ authors:
 - Zhong-Yuan Lu
 - Yao-Hong Xue
 - Hong Liu
-date: 2018-01-14
+date: '2018-01-14'
 doi: 10.1063/1.4999050
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

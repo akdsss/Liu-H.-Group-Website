@@ -6,7 +6,7 @@ authors:
 - Jing Zhang
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2012-11-20
+date: '2012-11-20'
 doi: 10.1021/mz3003374
 publish_types: 期刊文章
 publication: ACS Macro Letters

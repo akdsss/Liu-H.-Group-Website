@@ -9,7 +9,7 @@ authors:
 - Bin Xu
 - Xuequan Zhang
 - Wenjing Tian
-date: 2022-05-10
+date: '2022-05-10'
 doi: 10.31635/ccschem.022.202101726
 publish_types: 期刊文章
 publication: CCS Chemistry

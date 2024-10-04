@@ -10,7 +10,7 @@ authors:
 - Jian Li
 - Yuting Wang
 - Junqi Sun
-date: 2022-07-12
+date: '2022-07-12'
 doi: 10.1021/acs.macromol.2c00492
 publish_types: 期刊文章
 publication: Macromolecules

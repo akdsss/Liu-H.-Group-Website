@@ -5,7 +5,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2016-01-06
+date: '2016-01-06'
 doi: 10.1039/C5SM02125A
 publish_types: 期刊文章
 publication: Soft Matter

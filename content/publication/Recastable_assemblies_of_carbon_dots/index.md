@@ -9,7 +9,7 @@ authors:
 - Zhongyuan Lu
 - Bai Yang
 - Yunfeng Li
-date: 2023-10-25
+date: '2023-10-25'
 doi: 10.1038/s41467-023-42516-8
 publish_types: 期刊文章
 publication: Nature Communications

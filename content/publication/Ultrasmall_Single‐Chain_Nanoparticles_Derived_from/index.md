@@ -5,7 +5,7 @@ authors:
 - You‐Liang Zhu
 - Huanyu Zhao
 - Zhong‐Yuan Lu
-date: 07/2024
+date: '07/2024'
 doi: 10.1002/marc.202400087
 publish_types: 期刊文章
 publication: Macromolecular Rapid Communications

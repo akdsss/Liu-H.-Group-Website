@@ -6,7 +6,7 @@ authors:
 - Zhan-Wei Li
 - Zhao-Yan Sun
 - Xiaokong Liu
-date: 2019-05-21
+date: '2019-05-21'
 doi: 10.1021/acs.langmuir.9b00714
 publish_types: 期刊文章
 publication: Langmuir

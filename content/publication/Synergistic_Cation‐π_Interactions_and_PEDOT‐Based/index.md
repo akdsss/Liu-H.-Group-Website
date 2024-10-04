@@ -9,7 +9,7 @@ authors:
 - You‐Liang Zhu
 - Yingjin Wei
 - Yizhan Wang
-date: 03/2024
+date: '03/2024'
 doi: 10.1002/smtd.202301731
 publish_types: 期刊文章
 publication: Small Methods

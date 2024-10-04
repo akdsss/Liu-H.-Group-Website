@@ -4,7 +4,7 @@ authors:
 - Yan-Wei Li
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2016-12-1
+date: '2016-12-1'
 doi: 10.1103/PhysRevE.94.062601
 publish_types: 期刊文章
 publication: Physical Review E

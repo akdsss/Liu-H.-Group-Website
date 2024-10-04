@@ -4,7 +4,7 @@ authors:
 - Bin Li
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2012-12-28
+date: '2012-12-28'
 doi: 10.1063/1.4773013
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

@@ -8,7 +8,7 @@ authors:
 - Cheng Han
 - Jing-Tao Fan
 - Hong Liu
-date: 2013-08-28
+date: '2013-08-28'
 doi: 10.1039/C3CP51960K
 publish_types: 期刊文章
 publication: Physical Chemistry Chemical Physics

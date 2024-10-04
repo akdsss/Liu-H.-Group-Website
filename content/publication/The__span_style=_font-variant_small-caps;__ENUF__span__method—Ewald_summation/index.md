@@ -6,7 +6,7 @@ authors:
 - You‐Liang Zhu
 - Aatto Laaksonen
 - Yong‐Lei Wang
-date: 2020-10-15
+date: '2020-10-15'
 doi: 10.1002/jcc.26395
 publish_types: 期刊文章
 publication: Journal of Computational Chemistry

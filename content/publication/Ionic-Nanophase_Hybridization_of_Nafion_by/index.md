@@ -12,7 +12,7 @@ authors:
 - Haikun Guo
 - Lixin Wu
 - Haolong Li
-date: 2023-05-10
+date: '2023-05-10'
 doi: 10.1021/acs.nanolett.3c00518
 publish_types: 期刊文章
 publication: Nano Letters

@@ -7,7 +7,7 @@ authors:
 - Zhan-Wei Li
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2021-09-16
+date: '2021-09-16'
 doi: 10.1021/acs.jpclett.1c01916
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry Letters

@@ -3,7 +3,7 @@ title: Phase diagram of spherical particles interacted with harmonic repulsions
 authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2011-01-28
+date: '2011-01-28'
 doi: 10.1063/1.3548886
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

@@ -7,7 +7,7 @@ authors:
 - Zhongyuan Lu
 - Xiaokong Liu
 - Junqi Sun
-date: 2020-07-08
+date: '2020-07-08'
 doi: 10.1021/acsami.0c06995
 publish_types: 期刊文章
 publication: ACS Applied Materials & Interfaces

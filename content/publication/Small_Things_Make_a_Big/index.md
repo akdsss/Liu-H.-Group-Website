@@ -9,7 +9,7 @@ authors:
 - You-Liang Zhu
 - Dong Zhang
 - Fei Du
-date: 2023-11-22
+date: '2023-11-22'
 doi: 10.1021/acs.nanolett.3c03429
 publish_types: 期刊文章
 publication: Nano Letters

@@ -11,7 +11,7 @@ authors:
 - Yuan Lin
 - Daping Fan
 - Qian Wang
-date: 2015-04-29
+date: '2015-04-29'
 doi: 10.1039/C5TB00065C
 publish_types: 期刊文章
 publication: Journal of Materials Chemistry B

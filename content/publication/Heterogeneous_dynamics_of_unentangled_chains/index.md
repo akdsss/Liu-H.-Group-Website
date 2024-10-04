@@ -5,7 +5,7 @@ authors:
 - Cui-Liu Fu
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2019-05-14
+date: '2019-05-14'
 doi: 10.1063/1.5089816
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

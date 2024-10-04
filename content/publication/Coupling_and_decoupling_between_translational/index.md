@@ -5,7 +5,7 @@ authors:
 - Zhan-Wei Li
 - You-Liang Zhu
 - Zhao-Yan Sun
-date: 2019-04-17
+date: '2019-04-17'
 doi: 10.1039/C9SM00165D
 publish_types: 期刊文章
 publication: Soft Matter

@@ -5,7 +5,7 @@ authors:
 - Hong Liu
 - Zhong-Yuan Lu
 - You-Liang Zhu
-date: 2015-2-3
+date: '2015-2-3'
 doi: 10.1103/PhysRevE.91.020401
 publish_types: 期刊文章
 publication: Physical Review E

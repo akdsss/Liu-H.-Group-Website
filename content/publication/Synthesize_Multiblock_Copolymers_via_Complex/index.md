@@ -5,7 +5,7 @@ authors:
 - You-Liang Zhu
 - Hu-Jun Qian
 - Zhong-Yuan Lu
-date: 2013-12-19
+date: '2013-12-19'
 doi: 10.1021/jp4073137
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry B

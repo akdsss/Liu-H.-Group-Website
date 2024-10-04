@@ -13,7 +13,7 @@ authors:
 - You-Liang Zhu
 - Jun Chen
 - Swee Ching Tan
-date: 2023-04-27
+date: '2023-04-27'
 doi: 10.1038/s41928-023-00960-w
 publish_types: 期刊文章
 publication: Nature Electronics

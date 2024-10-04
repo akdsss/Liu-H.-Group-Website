@@ -5,7 +5,7 @@ authors:
 - Hu-Jun Qian
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2015-04-28
+date: '2015-04-28'
 doi: 10.1021/ma502383n
 publish_types: 期刊文章
 publication: Macromolecules

@@ -15,7 +15,7 @@ authors:
 - Xiujun Yu
 - Zhong-Yuan Lu
 - Xiaopeng Li
-date: 2022-12-14
+date: '2022-12-14'
 doi: 10.1021/jacs.2c09726
 publish_types: 期刊文章
 publication: Journal of the American Chemical Society

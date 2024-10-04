@@ -7,7 +7,7 @@ authors:
 - You-Liang Zhu
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: 2023-03-14
+date: '2023-03-14'
 doi: 10.1063/5.0135483
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

@@ -9,7 +9,7 @@ authors:
 - Zhao-Yan Sun
 - Kaloian Koynov
 - Hans-Jürgen Butt
-date: 2020-08-25
+date: '2020-08-25'
 doi: 10.1021/acsnano.0c03291
 publish_types: 期刊文章
 publication: ACS Nano

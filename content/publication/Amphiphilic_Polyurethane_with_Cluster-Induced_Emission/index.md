@@ -8,7 +8,7 @@ authors:
 - Chang-Yi Zhu
 - Yan-Hong Xu
 - Martin R. Bryce
-date: 2024-01-16
+date: '2024-01-16'
 doi: 10.1021/acsmacrolett.3c00657
 publish_types: 期刊文章
 publication: ACS Macro Letters

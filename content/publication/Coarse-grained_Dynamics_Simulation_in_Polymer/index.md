@@ -6,7 +6,7 @@ authors:
 - Youliang Zhu
 - Hujun Qian
 - Zhongyuan Lu
-date: 2022-06-01
+date: '2022-06-01'
 doi: 10.1007/s40242-022-2080-3
 publish_types: 期刊文章
 publication: Chemical Research in Chinese Universities

@@ -6,7 +6,7 @@ authors:
 - Zhong-Yuan Lu
 - Jun-Peng Li
 - Zhao-Yan Sun
-date: 2023-06-01
+date: '2023-06-01'
 doi: 10.1021/acs.jpcb.3c01555
 publish_types: 期刊文章
 publication: The Journal of Physical Chemistry B

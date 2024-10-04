@@ -4,7 +4,7 @@ authors:
 - You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
-date: 2016-01-14
+date: '2016-01-14'
 doi: 10.1063/1.4939623
 publish_types: 期刊文章
 publication: The Journal of Chemical Physics

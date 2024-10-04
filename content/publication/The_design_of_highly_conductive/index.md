@@ -9,7 +9,7 @@ authors:
 - Lai Wei
 - Zhao-Yan Sun
 - Yi-Neng Huang
-date: 2023-08-16
+date: '2023-08-16'
 doi: 10.1039/D3SM00669G
 publish_types: 期刊文章
 publication: Soft Matter

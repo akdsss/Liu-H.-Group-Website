@@ -6,7 +6,7 @@ authors:
 - Yong-Lei Wang
 - You-Liang Zhu
 - Zhong-Yuan Lu
-date: 2020-07-24
+date: '2020-07-24'
 doi: 10.1039/D0CP01006E
 publish_types: 期刊文章
 publication: Physical Chemistry Chemical Physics
