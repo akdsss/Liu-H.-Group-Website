@@ -1,7 +1,7 @@
 ---
 title: Mechanism for Topology Selection of Isomeric Two-Dimensional Covalent Organic Frameworks
 authors:
-- Xiang-Kun Yu
+- 于向坤
 - Huan-Yu Zhao
 - Jun-Peng Li
 - Xing-Ji Li

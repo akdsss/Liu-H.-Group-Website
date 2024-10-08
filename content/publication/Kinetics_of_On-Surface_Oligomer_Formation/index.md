@@ -1,7 +1,7 @@
 ---
 title: Kinetics of On-Surface Oligomer Formation Controlled by Concentration
 authors:
-- Xiang-Kun Yu
+- 于向坤
 - Rui Shi
 - Li−Li Zhang
 - Huan-Yu Zhao
