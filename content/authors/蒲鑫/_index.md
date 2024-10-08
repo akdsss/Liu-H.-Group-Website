@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 研究兴趣包括全固态聚合物电解质多尺度模拟与设计、有机光电转换材料的多尺度理论模拟与设计等。
 
 interests:
   - 全固态聚合物电解质多尺度模拟与设计

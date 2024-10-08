@@ -22,10 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI4Sci。
+bio: 研究兴趣包括高通量计算与机器学习辅助材料设计等。
 
 interests:
-  - Artificial Intelligence
+  - 高通量计算与机器学习辅助材料设计
 
 education:
   courses:
@@ -44,9 +44,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:xujl24@mails.jlu.edu.cn'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Llisten-xujl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +59,3 @@ user_groups:
   - 学生
 ---
 
-徐佳磊自我介绍

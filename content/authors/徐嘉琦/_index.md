@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 研究兴趣包括溶液中二维柔性聚合物的标度研究等。
 
 interests:
   - 溶液中二维柔性聚合物的标度研究

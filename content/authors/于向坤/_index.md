@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 研究兴趣包括二维共价有机框架的生长动力学研究。
 
 interests:
   - 二维共价有机框架的生长动力学研究
