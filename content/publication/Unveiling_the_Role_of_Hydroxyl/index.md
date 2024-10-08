@@ -3,7 +3,7 @@ title: Unveiling the Role of Hydroxyl Architecture on Polysulfide Trapping for H
 authors:
 - Xiaoyan Ren
 - Qi Sun
-- Youliang Zhu
+- 朱有亮
 - Wenbo Sun
 - Yang Li
 - Lehui Lu

@@ -5,7 +5,7 @@ authors:
 - Hao Ren
 - Fuxing Sun
 - Yuyang Tian
-- Youliang Zhu
+- 朱有亮
 - Jialu Li
 - Xin Mu
 - Jun Xu

@@ -2,7 +2,7 @@
 title: Dual Nanofillers-Reinforced Noncovalently Cross-Linked Polymeric Composites with Unprecedented Mechanical Strength
 authors:
 - Ni An
-- Youliang Zhu
+- 朱有亮
 - Xiaohan Wang
 - Yixuan Li
 - Junjun Liu

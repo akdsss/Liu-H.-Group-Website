@@ -4,7 +4,7 @@ authors:
 - Bo Wang
 - Limin Chen
 - Yingjuan Sun
-- Youliang Zhu
+- 朱有亮
 - Zhaoyan Sun
 - Tiezhu An
 - Yuhua Li

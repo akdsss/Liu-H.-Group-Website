@@ -7,7 +7,7 @@ authors:
 - Xiaofei Jing
 - Muhammad Faheem
 - Yutaka Matsuo
-- Youliang Zhu
+- 朱有亮
 - Yuyang Tian
 - Xiaohong Wang
 - Guangshan Zhu

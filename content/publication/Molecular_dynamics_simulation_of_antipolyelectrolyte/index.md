@@ -2,7 +2,7 @@
 title: Molecular dynamics simulation of antipolyelectrolyte effect and solubility of polyzwitterions
 authors:
 - Shengchun Yang
-- Youliang Zhu
+- 朱有亮
 - Hujun Qian
 - Zhongyuan Lü
 date: '4/2017'
