@@ -13,7 +13,7 @@ authors:
 - Wei Ma
 - Stefan C. J. Meskers
 - René A. J. Janssen
-date: '2018'
+date: '2018-09-27'
 doi: 10.1002/solr.201800247
 publish_types: 期刊文章
 publication: Solar RRL

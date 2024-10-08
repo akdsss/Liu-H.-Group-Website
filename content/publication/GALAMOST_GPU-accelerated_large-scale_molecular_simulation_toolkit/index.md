@@ -7,7 +7,7 @@ authors:
 - Hu-Jun Qian
 - Giuseppe Milano
 - Zhong-Yuan Lu
-date: '2013'
+date: '2013-09-30'
 doi: 10.1002/jcc.23365
 publish_types: 期刊文章
 publication: Journal of Computational Chemistry

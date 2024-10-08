@@ -9,7 +9,7 @@ authors:
 - Zhaoyan Sun
 - Song Yang
 - Qian Wang
-date: '2017'
+date: '2017-01-26'
 doi: 10.1002/chem.201604730
 publish_types: 期刊文章
 publication: Chemistry – A European Journal

@@ -5,7 +5,7 @@ authors:
 - 朱有亮
 - Hujun Qian
 - Zhongyuan Lü
-date: '4/2017'
+date: '2017-01-07'
 doi: 10.1007/s40242-017-6354-0
 publish_types: 期刊文章
 publication: Chemical Research in Chinese Universities

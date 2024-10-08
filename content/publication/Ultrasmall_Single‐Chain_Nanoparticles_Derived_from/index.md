@@ -5,7 +5,7 @@ authors:
 - 朱有亮
 - Huanyu Zhao
 - Zhong‐Yuan Lu
-date: '07/2024'
+date: '2024-04-30'
 doi: 10.1002/marc.202400087
 publish_types: 期刊文章
 publication: Macromolecular Rapid Communications

@@ -6,7 +6,7 @@ authors:
 - 朱有亮
 - Zhan-Wei Li
 - Zhao-Yan Sun
-date: '06/2020'
+date: '2020-11-28'
 doi: 10.1007/s10118-020-2352-7
 publish_types: 期刊文章
 publication: Chinese Journal of Polymer Science

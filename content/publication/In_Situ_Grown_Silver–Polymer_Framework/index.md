@@ -13,7 +13,7 @@ authors:
 - 朱有亮
 - Jun Chen
 - Swee Ching Tan
-date: '06/2023'
+date: '2023-06-15'
 doi: 10.1002/adma.202207916
 publish_types: 期刊文章
 publication: Advanced Materials

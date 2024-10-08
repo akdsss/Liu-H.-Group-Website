@@ -11,7 +11,7 @@ authors:
 - Yuyang Tian
 - Xiaohong Wang
 - Guangshan Zhu
-date: '10/2019'
+date: '2019-10-04'
 doi: 10.1002/adma.201902444
 publish_types: 期刊文章
 publication: Advanced Materials

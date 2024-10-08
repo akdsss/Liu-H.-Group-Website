@@ -5,7 +5,7 @@ authors:
 - 朱有亮
 - Zhong-Yuan Lu
 - Florian Müller-Plathe
-date: '2016'
+date: '2016-11-15'
 doi: 10.1002/jcc.24495
 publish_types: 期刊文章
 publication: Journal of Computational Chemistry

@@ -8,7 +8,7 @@ authors:
 - Zhaoyan Sun
 - Xuepeng Qiu
 - Xiangling Ji
-date: '04/2018'
+date: '2018-04-11'
 doi: 10.1016/j.polymer.2018.03.008
 publish_types: 期刊文章
 publication: Polymer
