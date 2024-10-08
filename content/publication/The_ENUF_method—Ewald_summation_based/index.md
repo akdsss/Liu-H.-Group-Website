@@ -3,7 +3,7 @@ title: The ENUF method—Ewald summation based on nonuniform  fast Fourier trans
 authors:
 - Sheng‐Chun Yang
 - Bin Li
-- You‐Liang Zhu
+- 朱有亮
 - Aatto Laaksonen
 - Yong‐Lei Wang
 date: '2020-10-15'
