@@ -9,13 +9,11 @@ sections:
     content:
       title:
       subtitle: ''
-      text: | 
-        Background Photo
     design:
       columns: '1'
       background:
         image: 
-          filename: background.jpg
+          filename: group.png
           filters:
             brightness: 1
           parallax: false
@@ -35,7 +33,8 @@ sections:
       text: |
         <br>
         
-        朱有亮课题组介绍
+        吉林大学朱有亮课题组成立于2021年，课题组目前已有博士研究生4人，硕士研究生3人。课题组专注于高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等领域的研究。自主研发了分子动力学模拟软件GALAMOST (GPU-Accelerated Large-Scale Molecular Simulation Toolkit) 和 PYGAMD (Python GPU-Accelerated Molecular Dynamics Software)并取得了一系列重要应用，软件应用成果已经在science等国际著名期刊发表论文超过200篇。
+        
   
   - block: collection
     content:
