@@ -12,7 +12,7 @@ sections:
         align: center
         background:
           image:
-            filename: group.png
+            filename: group_logo.png
             filters:
               brightness: 0.7
           position: right
