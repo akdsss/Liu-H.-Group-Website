@@ -12,7 +12,7 @@ sections:
         align: center
         background:
           image:
-            filename: tour_background.jpg
+            filename: group.png
             filters:
               brightness: 0.7
           position: right
