@@ -13,7 +13,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: group.png
+          filename: group_logo.png
           filters:
             brightness: 1
           parallax: false
@@ -29,7 +29,7 @@ sections:
       title: |
         朱有亮课题组
       image:
-        filename: group.jpg
+        filename: group_people.jpg
       text: |
         <br>
         
