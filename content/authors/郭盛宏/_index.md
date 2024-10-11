@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: 凝聚态物理专业博士
+    - course: 凝聚态物理专业硕士
       institution: 伊犁师范大学
       year: 2022.9 - 至今
     - course: 应用物理学专业学士
