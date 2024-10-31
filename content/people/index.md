@@ -14,9 +14,9 @@ sections:
           - 导师
           - 学生
       sort_by: Params.num
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
-      show_social: true
+      show_social: false
 ---
