@@ -1,7 +1,7 @@
 ---
 title: Folding behaviors of two-dimensional flexible polymers
 authors:
-- Jia-Qi Xu
+- 徐嘉琦
 - Rui Shi
 - 朱有亮
 - Zhong-Yuan Lu
