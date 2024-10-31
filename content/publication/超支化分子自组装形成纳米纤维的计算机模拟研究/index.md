@@ -7,7 +7,7 @@ authors:
 - 吕中元
 date: "2017-02-20"
 doi: "10.11777/j.issn1000-3304.2017.16294"
-publish_types: ["期刊文章"]
+publication_types: ["期刊文章"]
 publication: "高分子学报"
 abstract: "摘要信息未提供"
 url_pdf: "https://www.gfzxb.org/thesisDetails#10.11777/j.issn1000-3304.2017.16294&lang=zh"

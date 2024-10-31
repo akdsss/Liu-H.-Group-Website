@@ -10,7 +10,7 @@ authors:
 - 孙昭艳
 date: "2019-06-10"
 doi: "10.7503/cjcu20190059"
-publish_types: ["期刊文章"]
+publication_types: ["期刊文章"]
 publication: "高等学校化学学报"
 abstract: "利用 Gay⁃Berne 模型, 结合分子动力学模拟方法, 研究了粒子长径比对椭球粒子液晶行为的影响, 考   察了粒子长径比对向列相和近晶相的影响. 结果表明, 长径比相对较小的粒子有利于向列相的形成, 而长径  比相对较大的粒子更有利于近晶相的形成.  分析了近晶相和向列相形成的动力学过程."
 url_pdf: "http://www.cjcu.jlu.edu.cn/CN/10.7503/cjcu20190059"
