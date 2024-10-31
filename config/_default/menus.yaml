@@ -7,15 +7,18 @@ main:
   - name: 浏览
     url: tour
     weight: 20
+  - name: 研究方向
+    url: interests
+    weight: 30
   - name: 组内成员
     url: people
-    weight: 30
+    weight: 40
   - name: 组内新闻
     url: post
-    weight: 40
+    weight: 50
   - name: 发表论文
     url: publication
-    weight: 50
+    weight: 60
   - name: 联系我们
     url: contact
-    weight: 60
+    weight: 70
