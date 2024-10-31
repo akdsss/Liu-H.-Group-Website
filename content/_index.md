@@ -65,6 +65,7 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: 
     design:
       view: citation
       columns: '1'
