@@ -1,4 +1,9 @@
 ---
+title: Tour
+date: 2022-10-24
+
+type: landing
+
 - block: markdown
     content:
       title: '研究方向'
