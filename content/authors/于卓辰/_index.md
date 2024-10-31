@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: 本硕博连读；博士三年级
+num: 6
 
 # Organizations/Affiliations
 organizations:

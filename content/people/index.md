@@ -13,7 +13,7 @@ sections:
       user_groups:
           - 导师
           - 学生
-      sort_by: Params.last_name
+      sort_by: Params.num
       sort_ascending: true
     design:
       show_interests: false

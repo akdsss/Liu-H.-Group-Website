@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: 硕士；硕士一年级
+num: 1
 
 # Organizations/Affiliations
 organizations:

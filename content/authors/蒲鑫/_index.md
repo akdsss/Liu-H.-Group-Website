@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: 硕博连读；博士二年级
+num: 5
 
 # Organizations/Affiliations
 organizations:

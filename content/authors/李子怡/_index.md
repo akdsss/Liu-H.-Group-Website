@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: 硕士；硕士三年级
+num: 3
 
 # Organizations/Affiliations
 organizations:

@@ -15,6 +15,7 @@ superuser: false
 
 # Role/position
 role: 直博；博士一年级
+num: 1
 
 # Organizations/Affiliations
 organizations:
