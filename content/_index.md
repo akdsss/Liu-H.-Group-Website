@@ -29,7 +29,7 @@ sections:
       title: |
         朱有亮课题组
       image:
-        filename: group_people.jpg
+        filename: group_people_0.jpg
       text: |
         <br>
         
