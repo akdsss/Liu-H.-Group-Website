@@ -11,8 +11,6 @@ sections:
       subtitle:
       text: |
         1.高分子/超分子的大尺度分子动力学模拟方法和软件
-        <img src="/static/image/galamost.png" alt="示例图片" title="这是一个示例图片" />
-
     design:
       columns: '1'
 
