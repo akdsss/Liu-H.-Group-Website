@@ -25,7 +25,7 @@ sections:
 
   - block: markdown
     content:
-      title: 研究方向
+      title: 
       subtitle:
       text: |
         3.共价有机框架的生长动力学
