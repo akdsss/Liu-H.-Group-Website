@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 徐佳磊
+title: Jia-Lei Xu
 
 # Full name (for SEO)
 first_name: 徐
