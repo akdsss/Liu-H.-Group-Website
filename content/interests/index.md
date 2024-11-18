@@ -20,5 +20,5 @@ sections:
     content:
       title:
       subtitle: ''
-      text: 3.共价有机框架的生长动力学<img src="COF_2.png" alt="共价有机框架生长" class="center-image" />
+      text: 3.共价有机框架的生长动力学<img src="COF_2.jpeg" alt="共价有机框架生长" class="center-image" />
 ---
