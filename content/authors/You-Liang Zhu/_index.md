@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 朱有亮
+title: You-Liang Zhu
 
 # Full Name (for SEO)
 first_name: 朱
