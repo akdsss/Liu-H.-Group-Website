@@ -2,12 +2,12 @@
 title: "One-pot preparation of nonconventional luminescent polymer gels driven by polymerization"
 authors:
 - Nan Jiang
-- 蒲鑫
+- Xin Pu
 - Ke-Xin Li
 - Chang-Yi Zhu
 - Yu-Wei Sun
 - Yan-Hong Xu
-- 朱有亮
+- You-Liang Zhu
 - Martin R. Bryce
 date: "2024-09-24"
 doi: "10.1039/D4PY00832D"

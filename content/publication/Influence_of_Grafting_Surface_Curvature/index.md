@@ -2,7 +2,7 @@
 title: "Influence of Grafting Surface Curvature on Chain Polydispersity and Molecular Weight in Concave Surface-Initiated Polymerization"
 authors:
 - Hong Liu
-- 朱有亮
+- You-Liang Zhu
 - Jing Zhang
 - Zhong-Yuan Lu
 - Zhao-Yan Sun

@@ -2,7 +2,7 @@
 title: "Electrostatic interactions in soft particle systems:mesoscale simulations of ionic liquids"
 authors:
 - Yong-Lei Wang
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Aatto Laaksonen
 date: "2018-05-30"

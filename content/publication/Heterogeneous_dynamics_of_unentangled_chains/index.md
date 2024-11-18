@@ -3,7 +3,7 @@ title: "Heterogeneous dynamics of unentangled chains in polymer nanocomposites"
 authors:
 - Li-Jun Dai
 - Cui-Liu Fu
-- 朱有亮
+- You-Liang Zhu
 - Zhao-Yan Sun
 date: "2019-05-14"
 doi: "10.1063/1.5089816"

@@ -2,7 +2,7 @@
 title: "Unexpected Solvent Effect Leading to Interface Segregation of  Single-Chain Nanoparticles in All-Polymer Nanocomposite Films upon  Solvent Evaporation"
 authors:
 - Zhao Qian
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Hu-Jun Qian
 date: "2023-03-14"

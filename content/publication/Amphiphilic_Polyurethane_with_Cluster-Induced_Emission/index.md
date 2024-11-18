@@ -4,7 +4,7 @@ authors:
 - Nan Jiang
 - Ke-Xin Li
 - Jia-Jun Wang
-- 朱有亮
+- You-Liang Zhu
 - Chang-Yi Zhu
 - Yan-Hong Xu
 - Martin R. Bryce

@@ -2,7 +2,7 @@
 title: "GPU-Accelerated Molecular Dynamics Simulation to Study Liquid  Crystal Phase Transition Using Coarse-Grained Gay-Berne Anisotropic  Potential"
 authors:
 - Wenduo Chen
-- 朱有亮
+- You-Liang Zhu
 - Fengchao Cui
 - Lunyang Liu
 - Zhaoyan Sun

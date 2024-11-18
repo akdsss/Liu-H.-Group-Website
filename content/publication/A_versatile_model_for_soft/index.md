@@ -2,7 +2,7 @@
 title: "A versatile model for soft patchy particles with various patch arrangements"
 authors:
 - Zhan-Wei Li
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
 date: "2016-01-06"

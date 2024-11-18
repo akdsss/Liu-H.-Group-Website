@@ -3,7 +3,7 @@ title: "Highly tough, degradable, and water-resistant bio-based supramolecular p
 authors:
 - Haoxiang Sun
 - Xu Fang
-- 朱有亮
+- You-Liang Zhu
 - Zhuochen Yu
 - Xingyuan Lu
 - Junqi Sun

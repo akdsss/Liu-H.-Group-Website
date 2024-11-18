@@ -2,7 +2,7 @@
 title: "Self-Assembly of Single-Polymer-Tethered Nanoparticle Amphiphiles upon Varying Tail Length"
 authors:
 - Qingxiao Li
-- 朱有亮
+- You-Liang Zhu
 - Xinhui Zhang
 - Kaidong Xu
 - Jina Wang

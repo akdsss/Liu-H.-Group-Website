@@ -3,7 +3,7 @@ title: "Chiral Assemblies from an Achiral Pyridinium-Tailored Anthracene"
 authors:
 - Jun Hu
 - Lei Gao
-- 朱有亮
+- You-Liang Zhu
 - Peiyi Wang
 - Yuan Lin
 - Zhaoyan Sun

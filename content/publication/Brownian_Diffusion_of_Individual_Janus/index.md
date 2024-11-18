@@ -2,7 +2,7 @@
 title: "Brownian Diffusion of Individual Janus Nanoparticles at Water/Oil Interfaces"
 authors:
 - Dapeng Wang
-- 朱有亮
+- You-Liang Zhu
 - Yuehua Zhao
 - Christopher Y. Li
 - Ashis Mukhopadhyay

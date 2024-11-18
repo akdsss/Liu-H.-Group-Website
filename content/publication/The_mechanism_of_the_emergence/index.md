@@ -1,7 +1,7 @@
 ---
 title: "The mechanism of the emergence of distinct overstretched DNA states"
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
 date: "2016-01-14"

@@ -4,7 +4,7 @@ authors:
 - Zi-Qin Chen
 - Yu-Wei Sun
 - Xiao-Jie Zhang
-- 朱有亮
+- You-Liang Zhu
 - Zhan-Wei Li
 - Zhao-Yan Sun
 date: "2023-03-14"

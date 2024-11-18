@@ -2,7 +2,7 @@
 title: "Poly(Anthraquinonyl Sulfide)/CNT Composites as High-Rate-Performance Cathodes for Nonaqueous Rechargeable Calcium-Ion Batteries"
 authors:
 - Siqi Zhang
-- 朱有亮
+- You-Liang Zhu
 - Denghu Wang
 - Chunguang Li
 - Yu Han

@@ -5,7 +5,7 @@ authors:
 - Xiaoqin Zou
 - Jian Song
 - Yuyang Tian
-- 朱有亮
+- You-Liang Zhu
 - Guangli Yu
 - Ye Yuan
 - Guangshan Zhu

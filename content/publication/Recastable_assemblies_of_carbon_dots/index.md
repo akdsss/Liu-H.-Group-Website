@@ -2,7 +2,7 @@
 title: "Recastable assemblies of carbon dots into mechanically robust macroscopic materials"
 authors:
 - Bowen Sui
-- 朱有亮
+- You-Liang Zhu
 - Xuemei Jiang
 - Yifan Wang
 - Niboqia Zhang

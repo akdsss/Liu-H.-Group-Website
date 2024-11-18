@@ -2,7 +2,7 @@
 title: "General patchy ellipsoidal particle model for the aggregation behaviors of shape- and/or surface-anisotropic building blocks"
 authors:
 - Zhan-Wei Li
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
 date: "2018-09-26"

@@ -3,7 +3,7 @@ title: "Mechanically Robust Skin-like Poly(urethane-urea) Elastomers  Cross-Link
 authors:
 - Tingting Guan
 - Xiaohan Wang
-- 朱有亮
+- You-Liang Zhu
 - Li Qian
 - Zhongyuan Lu
 - Yongfeng Men

@@ -1,9 +1,9 @@
 ---
 title: "Folding behaviors of two-dimensional flexible polymers"
 authors:
-- 徐嘉琦
+- Jia-Qi Xu
 - Rui Shi
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 date: "2024-10-23"
 doi: "10.1063/5.0233042"

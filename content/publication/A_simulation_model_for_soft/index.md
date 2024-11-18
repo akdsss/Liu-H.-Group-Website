@@ -3,7 +3,7 @@ title: "A simulation model for soft triblock Janus particles and their ordered p
 authors:
 - Zhan-Wei Li
 - Zhong-Yuan Lu
-- 朱有亮
+- You-Liang Zhu
 - Zhao-Yan Sun
 - Li-Jia An
 date: "2012-12-11"

@@ -1,11 +1,11 @@
 ---
 title: "Kinetics of On-Surface Oligomer Formation Controlled by Concentration"
 authors:
-- 于向坤
+- Xiang-Kun Yu
 - Rui Shi
 - Li−Li Zhang
 - Huan-Yu Zhao
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 date: "2024-06-11"
 doi: "10.1021/acs.macromol.3c02153"

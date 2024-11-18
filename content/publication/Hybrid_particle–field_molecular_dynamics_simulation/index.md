@@ -1,7 +1,7 @@
 ---
 title: "Hybrid particle–field molecular dynamics simulation for polyelectrolyte systems"
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Giuseppe Milano
 - An-Chang Shi

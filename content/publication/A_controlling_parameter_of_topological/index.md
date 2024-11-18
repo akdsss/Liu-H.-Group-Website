@@ -1,7 +1,7 @@
 ---
 title: "A controlling parameter of topological defects in two-dimensional covalent organic frameworks"
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Huan-Yu Zhao
 - Cui-Liu Fu
 - Zhan-Wei Li

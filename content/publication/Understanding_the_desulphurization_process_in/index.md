@@ -3,7 +3,7 @@ title: "Understanding the desulphurization process in an ionic porous aromatic f
 authors:
 - Yuyang Tian
 - Jian Song
-- 朱有亮
+- You-Liang Zhu
 - Huanyu Zhao
 - Faheem Muhammad
 - Tingting Ma

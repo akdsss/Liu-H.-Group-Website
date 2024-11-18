@@ -2,7 +2,7 @@
 title: "Synthesis of branched silica nanotrees using a nanodroplet sequential fusion strategy"
 authors:
 - Yuzhu Ma
-- 朱有亮
+- You-Liang Zhu
 - Runfeng Lin
 - Yan Ai
 - Linlin Duan

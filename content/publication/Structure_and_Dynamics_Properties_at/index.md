@@ -3,7 +3,7 @@ title: "Structure and Dynamics Properties at Interphase Region in the  Composite
 authors:
 - Tao Chen
 - Hu-Jun Qian
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 date: "2015-04-28"
 doi: "10.1021/ma502383n"

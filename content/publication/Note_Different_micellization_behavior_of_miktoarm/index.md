@@ -2,7 +2,7 @@
 title: "Note:Different micellization behavior of miktoarm star-like and diblock copolymers"
 authors:
 - Bin Li
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 date: "2012-12-28"
 doi: "10.1063/1.4773013"

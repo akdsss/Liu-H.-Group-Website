@@ -3,7 +3,7 @@ title: "Kinetic step-growth polymerization:A dissipative particle dynamics simul
 authors:
 - Dan Xu
 - Chun-Yan Ni
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Yao-Hong Xue
 - Hong Liu

@@ -3,7 +3,7 @@ title: "Three-dimensional inverse design of nanopatterns with block copolymers a
 authors:
 - Dan Xu
 - Hong Liu
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 date: "2016-02-25"
 doi: "10.1039/C5NR07497E"

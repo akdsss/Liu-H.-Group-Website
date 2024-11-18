@@ -3,7 +3,7 @@ title: "Coupling and decoupling between translational and rotational dynamics in
 authors:
 - Qing-Zhi Zou
 - Zhan-Wei Li
-- 朱有亮
+- You-Liang Zhu
 - Zhao-Yan Sun
 date: "2019-04-17"
 doi: "10.1039/C9SM00165D"

@@ -10,7 +10,7 @@ authors:
 - Hao Qu
 - Xun Zhao
 - Peng Zheng
-- 朱有亮
+- You-Liang Zhu
 - Jun Chen
 - Swee Ching Tan
 date: "2023-04-27"

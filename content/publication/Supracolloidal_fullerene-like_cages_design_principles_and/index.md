@@ -2,7 +2,7 @@
 title: "Supracolloidal fullerene-like cages:design principles and formation mechanisms"
 authors:
 - Zhan-Wei Li
-- 朱有亮
+- You-Liang Zhu
 - Zhong-Yuan Lu
 - Zhao-Yan Sun
 date: "2016-11-30"

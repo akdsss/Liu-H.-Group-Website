@@ -1,7 +1,7 @@
 ---
 title: "A highly coarse-grained model to simulate entangled polymer melts"
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Hong Liu
 - Zhong-Yuan Lu
 date: "2012-04-14"

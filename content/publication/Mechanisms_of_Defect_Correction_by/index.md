@@ -1,7 +1,7 @@
 ---
 title: "Mechanisms of Defect Correction by Reversible Chemistries in Covalent Organic Frameworks"
 authors:
-- 朱有亮
+- You-Liang Zhu
 - Huan-Yu Zhao
 - Cui-Liu Fu
 - Zhan-Wei Li

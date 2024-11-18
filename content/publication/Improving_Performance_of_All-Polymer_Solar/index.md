@@ -4,7 +4,7 @@ authors:
 - Chunhui Duan
 - Zhaojun Li
 - Shuting Pang
-- 朱有亮
+- You-Liang Zhu
 - Baojun Lin
 - Fallon J. M. Colberts
 - Pieter J. Leenaers

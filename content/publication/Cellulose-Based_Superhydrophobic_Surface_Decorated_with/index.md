@@ -6,7 +6,7 @@ authors:
 - Zhe Qiu
 - Wenxin Zhu
 - Yonggui Wang
-- 朱有亮
+- You-Liang Zhu
 - Zefang Xiao
 - Haigang Wang
 - Daxin Liang

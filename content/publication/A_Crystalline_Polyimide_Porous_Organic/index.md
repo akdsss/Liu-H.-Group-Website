@@ -4,7 +4,7 @@ authors:
 - Lingchang Jiang
 - Yuyang Tian
 - Tu Sun
-- 朱有亮
+- You-Liang Zhu
 - Hao Ren
 - Xiaoqin Zou
 - Yanhang Ma

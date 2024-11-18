@@ -10,7 +10,7 @@ authors:
 - Lin Yang
 - Wanxin Sun
 - Peng Zheng
-- 朱有亮
+- You-Liang Zhu
 - Jun Chen
 - Swee Ching Tan
 date: "2023-06-15"

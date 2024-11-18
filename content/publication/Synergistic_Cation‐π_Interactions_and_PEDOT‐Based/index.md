@@ -5,8 +5,8 @@ authors:
 - Xiuxiu Yin
 - Fengxue Duan
 - Yingjie Cheng
-- 蒲鑫
-- 朱有亮
+- Xin Pu
+- You-Liang Zhu
 - Yingjin Wei
 - Yizhan Wang
 date: "2024-03-01"

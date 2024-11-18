@@ -3,7 +3,7 @@ title: "Probing Intermittent Motion of Polymer Chains in Weakly Attractive Nanoc
 authors:
 - Li-Jun Dai
 - Cui-Liu Fu
-- 朱有亮
+- You-Liang Zhu
 - Zhan-Wei Li
 - Zhao-Yan Sun
 date: "2020-11-28"

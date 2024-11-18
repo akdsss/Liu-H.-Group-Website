@@ -4,7 +4,7 @@ authors:
 - Zhikai Li
 - Min Chen
 - Zhi Chen
-- 朱有亮
+- You-Liang Zhu
 - Chenxing Guo
 - Heng Wang
 - Yi Qin

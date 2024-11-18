@@ -2,7 +2,7 @@
 title: "Remalleable, Healable, and Highly Sustainable Supramolecular  Polymeric Materials Combining Superhigh Strength and Ultrahigh Toughness"
 authors:
 - Wenwen Niu
-- 朱有亮
+- You-Liang Zhu
 - Rui Wang
 - Zhongyuan Lu
 - Xiaokong Liu
