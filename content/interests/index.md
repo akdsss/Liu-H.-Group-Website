@@ -7,13 +7,13 @@ sections:
       title: 研究方向
       subtitle: ''
       text: 1.高分子/超分子的大尺度分子动力学模拟方法和软件<img src="galamost.png" alt="GALAMOST" class="center-image" />
-sections:
+
   - block: markdown
     content:
       title:
       subtitle: ''
       text: 2.高分子材料力学性能的分子机理<img src="strength.png" alt="氢键复合物的力学性能" class="center-image" />
-sections:
+
   - block: markdown
     content:
       title:
