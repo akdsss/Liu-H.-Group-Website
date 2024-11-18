@@ -12,6 +12,7 @@ sections:
       text: |
         1.高分子/超分子的大尺度分子动力学模拟方法和软件
         ![screen reader text](galamost.png "GALAMOST" ){.center .responsive}
+        {{< image src="galamost.png" alt="screen reader text" title="caption" width="500px" align="center" >}}
     design:
       columns: '1'
 
