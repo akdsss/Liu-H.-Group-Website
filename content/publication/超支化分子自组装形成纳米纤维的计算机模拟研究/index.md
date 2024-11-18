@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "超支化分子自组装形成纳米纤维的计算机模拟研究"
 authors:
 - You-Liang Zhu

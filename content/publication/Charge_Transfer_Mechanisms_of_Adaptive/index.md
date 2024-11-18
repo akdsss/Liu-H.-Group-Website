@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Charge Transfer Mechanisms of Adaptive Multicomponent Solutions  at Solid–Liquid Interfaces for Real-Time Coolant State Monitoring"
 authors:
 - Yanxu Lu

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Self-Assembly Behaviors of Giant Amphiphiles Containing Cubic Cage-like “Monomers”"
 authors:
 - Qingliang Song

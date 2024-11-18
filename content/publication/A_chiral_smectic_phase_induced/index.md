@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A chiral smectic phase induced by an alternating external field"
 authors:
 - Zi-Qin Chen

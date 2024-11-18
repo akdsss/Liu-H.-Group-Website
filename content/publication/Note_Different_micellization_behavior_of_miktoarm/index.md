@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Note:Different micellization behavior of miktoarm star-like and diblock copolymers"
 authors:
 - Bin Li

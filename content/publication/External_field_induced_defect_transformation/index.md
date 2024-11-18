@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "External field induced defect transformation in circular confined Gay–Berne liquid crystals"
 authors:
 - Zi-Qin Chen

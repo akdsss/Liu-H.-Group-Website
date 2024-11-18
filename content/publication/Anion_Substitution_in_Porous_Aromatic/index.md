@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Anion Substitution in Porous Aromatic Frameworks:Boosting  Molecular Permeability and Selectivity for Membrane Acetylene Separation"
 authors:
 - Panpan Zhang

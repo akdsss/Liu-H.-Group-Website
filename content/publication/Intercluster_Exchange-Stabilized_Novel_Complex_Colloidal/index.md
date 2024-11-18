@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Intercluster Exchange-Stabilized Novel Complex Colloidal χ <sub>c</sub> Phase"
 authors:
 - Yu-Wei Sun

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A versatile model for soft patchy particles with various patch arrangements"
 authors:
 - Zhan-Wei Li

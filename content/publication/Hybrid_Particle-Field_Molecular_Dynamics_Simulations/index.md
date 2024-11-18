@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Hybrid particle-field molecular dynamics simulations of charged amphiphiles in aqueous environment"
 authors:
 - Hima Bindu Kolli

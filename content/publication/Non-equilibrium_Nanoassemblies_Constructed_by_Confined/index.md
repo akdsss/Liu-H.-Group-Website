@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Non-equilibrium Nanoassemblies Constructed by Confined Coordination on a Polymer Chain"
 authors:
 - Zhikai Li

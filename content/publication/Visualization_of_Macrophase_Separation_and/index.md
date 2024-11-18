@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Visualization of Macrophase Separation and Transformation in Immiscible Polymer Blends"
 authors:
 - Zhiyuan Wu

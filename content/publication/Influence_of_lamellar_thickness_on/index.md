@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Influence of lamellar thickness on the transformation of isotactic polybutylene-1/carbon nanotube nanocomposites"
 authors:
 - Yan-Kai Li

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Self-assembly of two-patch particles in solution:a Brownian dynamics simulation study"
 authors:
 - Yang Li

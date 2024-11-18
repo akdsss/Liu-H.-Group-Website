@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Autonomous helical propagation of active toroids with mechanical action"
 authors:
 - Bowen Shen

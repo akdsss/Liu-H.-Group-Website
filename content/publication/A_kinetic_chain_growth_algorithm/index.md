@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A kinetic chain growth algorithm in coarse-grained simulations"
 authors:
 - Hong Liu

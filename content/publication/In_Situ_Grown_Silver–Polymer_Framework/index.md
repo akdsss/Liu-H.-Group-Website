@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "In Situ Grown Silver–Polymer Framework with Coordination Complexes for Functional Artificial Tissues"
 authors:
 - Songlin Zhang

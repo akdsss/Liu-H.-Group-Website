@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Exploring the interplay of liquid crystal orientation and spherical elastic shell deformation in spatial confinement"
 authors:
 - You-Lu Liu

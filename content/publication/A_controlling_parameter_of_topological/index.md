@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A controlling parameter of topological defects in two-dimensional covalent organic frameworks"
 authors:
 - You-Liang Zhu

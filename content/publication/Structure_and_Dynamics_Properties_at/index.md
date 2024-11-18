@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Structure and Dynamics Properties at Interphase Region in the  Composite of Polystyrene and Cross-Linked Polystyrene Soft Nanoparticle"
 authors:
 - Tao Chen

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Amphiphilic Polyurethane with Cluster-Induced Emission for Multichannel Bioimaging in Living Cell Systems"
 authors:
 - Nan Jiang

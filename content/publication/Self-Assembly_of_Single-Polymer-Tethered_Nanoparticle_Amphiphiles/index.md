@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Self-Assembly of Single-Polymer-Tethered Nanoparticle Amphiphiles upon Varying Tail Length"
 authors:
 - Qingxiao Li

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Colloidal cubic diamond photonic crystals through cooperative self-assembly"
 authors:
 - Yu-Wei Sun

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Three-dimensional inverse design of nanopatterns with block copolymers and homopolymers"
 authors:
 - Dan Xu

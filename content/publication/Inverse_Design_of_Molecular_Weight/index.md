@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Inverse Design of Molecular Weight Distribution in Controlled Polymerization via a One-Pot Reaction Strategy"
 authors:
 - Hong Liu

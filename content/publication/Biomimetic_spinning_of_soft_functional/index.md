@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Biomimetic spinning of soft functional fibres via spontaneous phase separation"
 authors:
 - Songlin Zhang

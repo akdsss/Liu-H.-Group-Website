@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Highly tough, degradable, and water-resistant bio-based supramolecular plastics comprised of cellulose and tannic acid"
 authors:
 - Haoxiang Sun

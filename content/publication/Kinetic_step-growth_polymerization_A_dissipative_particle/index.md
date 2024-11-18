@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Kinetic step-growth polymerization:A dissipative particle dynamics simulation study"
 authors:
 - Dan Xu

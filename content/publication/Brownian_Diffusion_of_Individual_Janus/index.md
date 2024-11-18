@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Brownian Diffusion of Individual Janus Nanoparticles at Water/Oil Interfaces"
 authors:
 - Dapeng Wang

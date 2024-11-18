@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Mechanisms of Defect Correction by Reversible Chemistries in Covalent Organic Frameworks"
 authors:
 - You-Liang Zhu

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Helical structures of achiral liquid crystals under cylindrical confinement"
 authors:
 - Ming Zhou

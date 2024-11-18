@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Development of phenylboronic acid-functionalized nanoparticles for emodin delivery"
 authors:
 - Bo Wang

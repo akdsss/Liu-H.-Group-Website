@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Kinetics-controlled design principles for two-dimensional open lattices using atom-mimicking patchy particles"
 authors:
 - Zhan-Wei Li

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Defect transition of smectic liquid crystals confined in spherical cavities"
 authors:
 - Ming Zhou

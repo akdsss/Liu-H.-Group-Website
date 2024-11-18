@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Cellulose-Based Superhydrophobic Surface Decorated with  Functional Groups Showing Distinct Wetting Abilities to Manipulate Water  Harvesting"
 authors:
 - Wei Huang

@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Folding behaviors of two-dimensional flexible polymers"
 authors:
 - Jia-Qi Xu

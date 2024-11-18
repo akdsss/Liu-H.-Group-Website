@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Healable and Recyclable Elastomers with Record-High Mechanical  Robustness, Unprecedented Crack Tolerance, and Superhigh Elastic  Restorability"
 authors:
 - Zequan Li

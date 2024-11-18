@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Enhancement of surface nonwettability by grafting loops"
 authors:
 - Han-Wen Pei

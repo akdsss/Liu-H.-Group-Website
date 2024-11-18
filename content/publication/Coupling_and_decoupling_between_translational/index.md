@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Coupling and decoupling between translational and rotational dynamics in supercooled monodisperse soft Janus particles"
 authors:
 - Qing-Zhi Zou

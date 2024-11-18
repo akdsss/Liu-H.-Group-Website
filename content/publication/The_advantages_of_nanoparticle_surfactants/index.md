@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "The advantages of nanoparticle surfactants over Janus nanoparticles on structuring liquids"
 authors:
 - You-Liang Zhu

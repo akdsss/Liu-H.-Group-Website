@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "The coarse-grained models of poly(ethylene oxide) and  poly(propylene oxide) homopolymers and poloxamers in big multipole water  (BMW) and MARTINI frameworks"
 authors:
 - Su-Min Ma

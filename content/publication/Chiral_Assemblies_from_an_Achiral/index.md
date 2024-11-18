@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Chiral Assemblies from an Achiral Pyridinium-Tailored Anthracene"
 authors:
 - Jun Hu

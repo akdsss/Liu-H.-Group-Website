@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Unveiling the Role of Hydroxyl Architecture on Polysulfide Trapping for High-Performance Lithium–Sulfur Batteries"
 authors:
 - Xiaoyan Ren

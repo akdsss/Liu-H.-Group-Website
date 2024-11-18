@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Probing heterogeneous dynamics from spatial density correlation in glass-forming liquids"
 authors:
 - Yan-Wei Li

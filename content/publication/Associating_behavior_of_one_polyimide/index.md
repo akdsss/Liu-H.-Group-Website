@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Associating behavior of one polyimide with high molecular weight in solution through a relatively weak interaction"
 authors:
 - Ensong Zhang

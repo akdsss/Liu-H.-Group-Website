@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Improving Performance of All-Polymer Solar Cells Through Backbone Engineering of Both Donors and Acceptors"
 authors:
 - Chunhui Duan

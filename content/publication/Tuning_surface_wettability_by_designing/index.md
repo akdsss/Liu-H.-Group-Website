@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Tuning surface wettability by designing hairy structures"
 authors:
 - Han-Wen Pei

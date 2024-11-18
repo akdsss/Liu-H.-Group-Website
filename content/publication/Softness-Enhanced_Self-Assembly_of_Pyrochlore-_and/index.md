@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Softness-Enhanced Self-Assembly of Pyrochlore- and Perovskite-like Colloidal Photonic Crystals from Triblock Janus Particles"
 authors:
 - Zhan-Wei Li

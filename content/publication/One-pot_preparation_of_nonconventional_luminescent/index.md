@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "One-pot preparation of nonconventional luminescent polymer gels driven by polymerization"
 authors:
 - Nan Jiang

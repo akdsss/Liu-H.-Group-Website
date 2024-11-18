@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Mechanically Robust Skin-like Poly(urethane-urea) Elastomers  Cross-Linked with Hydrogen-Bond Arrays and Their Application as  High-Performance Ultrastretchable Conductors"
 authors:
 - Tingting Guan

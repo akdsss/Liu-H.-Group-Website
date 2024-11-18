@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "GALAMOST:GPU-accelerated large-scale molecular simulation toolkit"
 authors:
 - You-Liang Zhu

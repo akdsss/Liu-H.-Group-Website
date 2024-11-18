@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "The ENUF method—Ewald summation based on nonuniform  fast Fourier transform:Implementation, parallelization, and  application"
 authors:
 - Sheng‐Chun Yang

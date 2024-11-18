@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Bacterial lipids drive compartmentalization on the nanoscale"
 authors:
 - Antonio De Nicola

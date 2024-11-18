@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Interactions on Proteins Arising from the Self-Assembly of a Polyelectrolyte Brush"
 authors:
 - Yunming Yao

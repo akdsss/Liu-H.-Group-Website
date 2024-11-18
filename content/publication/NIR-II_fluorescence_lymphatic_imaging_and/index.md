@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "NIR-II fluorescence lymphatic imaging and intraoperative navigation based on the “isolated cage” monodisperse strategy"
 authors:
 - Shaolong Qi

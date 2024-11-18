@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Phase diagram of spherical particles interacted with harmonic repulsions"
 authors:
 - You-Liang Zhu

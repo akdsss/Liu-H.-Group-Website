@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Brownian dynamics simulation study on the self-assembly of incompatible star-like block copolymers in dilute solution"
 authors:
 - Bin Li

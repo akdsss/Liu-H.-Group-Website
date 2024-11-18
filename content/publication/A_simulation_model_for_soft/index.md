@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A simulation model for soft triblock Janus particles and their ordered packing"
 authors:
 - Zhan-Wei Li

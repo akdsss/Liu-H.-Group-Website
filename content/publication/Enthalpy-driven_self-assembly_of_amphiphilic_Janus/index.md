@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Enthalpy-driven self-assembly of amphiphilic Janus dendrimers into onion-like vesicles:a Janus particle model"
 authors:
 - Fang-Fang Hu

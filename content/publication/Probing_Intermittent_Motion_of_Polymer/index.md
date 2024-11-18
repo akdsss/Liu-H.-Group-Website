@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "Probing Intermittent Motion of Polymer Chains in Weakly Attractive Nanocomposites"
 authors:
 - Li-Jun Dai

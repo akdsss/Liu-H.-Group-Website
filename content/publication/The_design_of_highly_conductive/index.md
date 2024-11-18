@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "The design of highly conductive and stretchable polymer conductors with low-load nanoparticles"
 authors:
 - Yu-Ting Sun

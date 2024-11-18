@@ -1,4 +1,5 @@
 ---
+<!--more-->
 title: "A Crystalline Polyimide Porous Organic Framework for Selective Adsorption of Acetylene over Ethylene"
 authors:
 - Lingchang Jiang
