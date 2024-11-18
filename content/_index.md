@@ -48,6 +48,6 @@ sections:
           - publication
         publication_type: 
     design:
-      view: showcase
+      view: card
       columns: '1'
 ---
