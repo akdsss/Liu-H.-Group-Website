@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 联系我们
 date: 2022-10-24
 
 type: landing
@@ -18,15 +18,6 @@ sections:
         postcode: '130012'
         country: 中国
         country_code: CN
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '1'
 ---
