@@ -8,11 +8,11 @@ date: 2024-11-08
 <!--more-->
 
 朱有亮老师受邀以“高分子动力学模拟软件的创制和应用”为题进行了邀请报告。
-![screen reader text](2024_gz_zhu_1.jpg "caption")
-![screen reader text](2024_gz_zhu_2.jpg "caption")
+![screen reader text](2024_gz_zhu_1.jpg )
+![screen reader text](2024_gz_zhu_2.jpg )
 
 于向坤受邀以“共价有机框架单晶的生长动力学”为题进行了口头报告。
-![screen reader text](2024_gz_yu.jpg "caption")
+![screen reader text](2024_gz_yu.jpg )
 
 蒲鑫和徐嘉琦分别以“聚氧化乙烯基全固态聚合物电解质多尺度模拟研究”和“二维柔性聚合物的折叠行为”为题制作了墙报进行展示，吸引了众多老师和学生参与交流讨论，为彼此的工作研究提供灵感和建议。其中徐嘉琦荣获优秀墙报奖。
-![screen reader text](2024_gz_xu.jpg "caption")
+![screen reader text](2024_gz_xu.jpg )
