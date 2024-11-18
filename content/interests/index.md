@@ -14,6 +14,8 @@ sections:
     design:
       columns: '1'
 
+![screen reader text](galamost.png "GALAMOST" )
+
   - block: markdown
     content:
       title:
@@ -23,6 +25,8 @@ sections:
     design:
       columns: '1'
 
+![screen reader text](strength.png "氢键复合物的力学性能" )
+
   - block: markdown
     content:
       title: 
@@ -31,4 +35,6 @@ sections:
         3.共价有机框架的生长动力学
     design:
       columns: '1'
+
+![screen reader text](COF_1.png "COF的生长" )
 ---
