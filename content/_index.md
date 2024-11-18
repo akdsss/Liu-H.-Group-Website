@@ -48,6 +48,6 @@ sections:
           - publication
         publication_type: 
     design:
-      view: citation
+      view: showcase
       columns: '1'
 ---
