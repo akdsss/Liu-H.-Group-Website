@@ -1,6 +1,6 @@
 ---
 # Display name
-title: You-Liang Zhu
+title: 朱有亮
 
 # Full Name (for SEO)
 first_name: 朱
@@ -9,6 +9,9 @@ last_name: 有亮
 # Username (this should match the folder name)
 authors:
   - You-Liang Zhu
+  - 朱有亮
+  - Youliang Zhu
+  - You‐Liang Zhu
 
 # Is this the primary user of the site?
 superuser: true
