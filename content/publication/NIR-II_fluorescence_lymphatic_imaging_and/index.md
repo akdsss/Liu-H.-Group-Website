@@ -3,7 +3,7 @@ title: "NIR-II fluorescence lymphatic imaging and intraoperative navigation base
 authors:
 - Shaolong Qi
 - Yajun Wang
-- You-Liang Zhu
+- Youliang Zhu
 - Xueyan Zhang
 - Xinyu Wang
 - Xinyang Yu

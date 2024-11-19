@@ -3,7 +3,7 @@ title: "Coarse-grained Dynamics Simulation in Polymer Systems:from Structures to
 authors:
 - Huimin Gao
 - Rui Shi
-- You-Liang Zhu
+- Youliang Zhu
 - Hujun Qian
 - Zhongyuan Lu
 date: "2022-06-01"

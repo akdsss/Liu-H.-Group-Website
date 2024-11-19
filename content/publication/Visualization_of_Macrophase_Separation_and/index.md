@@ -3,7 +3,7 @@ title: "Visualization of Macrophase Separation and Transformation in Immiscible 
 authors:
 - Zhiyuan Wu
 - Chunyu Zhang
-- You-Liang Zhu
+- Youliang Zhu
 - Zhongyuan Lu
 - Heng Liu
 - Bin Xu

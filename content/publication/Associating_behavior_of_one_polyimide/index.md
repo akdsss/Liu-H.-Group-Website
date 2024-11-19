@@ -3,7 +3,7 @@ title: "Associating behavior of one polyimide with high molecular weight in solu
 authors:
 - Ensong Zhang
 - Xuemin Dai
-- You-Liang Zhu
+- Youliang Zhu
 - Quan Chen
 - Zhaoyan Sun
 - Xuepeng Qiu

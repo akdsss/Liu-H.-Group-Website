@@ -2,7 +2,7 @@
 title: "Autonomous helical propagation of active toroids with mechanical action"
 authors:
 - Bowen Shen
-- You-Liang Zhu
+- Youliang Zhu
 - Yongju Kim
 - Xiaobin Zhou
 - Haonan Sun

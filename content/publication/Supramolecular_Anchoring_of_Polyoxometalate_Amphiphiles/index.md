@@ -2,7 +2,7 @@
 title: "Supramolecular Anchoring of Polyoxometalate Amphiphiles into Nafion Nanophases for Enhanced Proton Conduction"
 authors:
 - Haibo He
-- You-Liang Zhu
+- Youliang Zhu
 - Tingting Li
 - Shihao Song
 - Liang Zhai
