@@ -2,7 +2,7 @@
 title: "Ultrasmall Single‐Chain Nanoparticles Derived from Amphiphilic Alternating Copolymers"
 authors:
 - Chufeng Qi
-- You‐Liang Zhu
+- You-Liang Zhu
 - Huanyu Zhao
 - Zhong‐Yuan Lu
 date: "2024-04-30"
