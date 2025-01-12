@@ -7,6 +7,10 @@ date: 2024-11-13
 
 <!--more-->
 
-朱有亮老师受邀以“”为题进行了邀请报告。
+朱有亮老师受邀以“A molecular dynamics simulation software for polymers”为题进行了邀请报告。
 ![screen reader text](2024_nd_zhu_1.jpg )
 ![screen reader text](2024_nd_zhu_2.jpg )
+
+蒲鑫在第八届材料基因工程高层论坛举办的创能未来：材料基因工程应用成果竞展中获得一等奖，并以“Computer-Aided Structural Design of Solid Polymer Electrolytes”为题进行了报告。
+![screen reader text](2024_nd_pu_1.jpg)
+![screen reader text](2024_nd_pu_2.jpg)
