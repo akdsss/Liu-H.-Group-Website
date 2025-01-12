@@ -1,5 +1,8 @@
 ---
 title: 第八届材料基因工程高层论坛
+authors:
+- You-Liang Zhu
+- Xin Pu
 date: 2024-11-13
 ---
 

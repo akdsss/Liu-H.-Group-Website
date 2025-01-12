@@ -1,4 +1,8 @@
 ---
 title: 欢迎徐佳磊同学、梁晓倩同学加入课题组，并预祝取得好成绩！
+authors:
+- You-Liang Zhu
+- Jia-Lei Xu
+- Xiao-Qian Liang
 date: 2024-08-21
 ---

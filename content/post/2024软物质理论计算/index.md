@@ -1,5 +1,10 @@
 ---
 title: 中国化学会2024年软物质理论计算与模拟学术会议
+authors:
+- You-Liang Zhu
+- Xiang-Kun Yu
+- Xin Pu
+- Jia-Qi Xu
 date: 2024-11-08
 ---
 
