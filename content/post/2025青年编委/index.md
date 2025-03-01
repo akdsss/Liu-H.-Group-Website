@@ -13,4 +13,4 @@ Polymer Science & Technology（《高分子科学与技术（英文）》，简�
 ![screen reader text](2025_PST.jpg )
 
 《材料基因工程前沿（英文）》（Materials Genome Engineering Advances，简称：MGE Advances）作为材料基因工程领域首个高水平综合性学术期刊，其宗旨是面向国家重点战略布局与材料学科国际学术前沿发展的重大需求，聚焦材料基因工程领域，刊载先进材料计算、高通量/自动化/智能化材料实验技术、材料数据库与大数据技术等材料基因工程关键技术的研究进展和前沿成果，以及三者在材料新效应/新原理探索和新材料发现等方面的重要应用，创建一个跨学科多领域交叉融合的国际一流高水平出版平台和学术交流平台，推动新材料研发模式变革。
-![screen reader text](2025_MGE.jpg )
+![screen reader text](2025_MGE.png )
