@@ -9,6 +9,7 @@ date: "2017-02-20"
 doi: "10.11777/j.issn1000-3304.2017.16294"
 publication_types: ["期刊文章"]
 publication: "高分子学报"
+publication_short: "刊名简称未提供"
 abstract: "
 <!--more-->
 摘要信息未提供"

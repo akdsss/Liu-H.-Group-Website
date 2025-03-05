@@ -8,6 +8,7 @@ date: "2012-12-28"
 doi: "10.1063/1.4773013"
 publication_types: ["期刊文章"]
 publication: "The Journal of Chemical Physics"
+publication_short: "The Journal of Chemical Physics 2012,24,137,246102"
 abstract: "
 <!--more-->
 摘要信息未提供"
