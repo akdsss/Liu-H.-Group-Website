@@ -33,6 +33,7 @@ interests:
 
 education:
   courses:
+    - course: 教授，博士生导师
       institution: 华南师范大学化学与环境学院
       year: 2018.12－现在
     - course: 讲师、副教授
