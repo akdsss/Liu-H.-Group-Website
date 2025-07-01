@@ -15,5 +15,5 @@ date: 2017-05-05
 &emsp;&emsp;刘鸿参与组织本次研讨会，并做了相关学术报告。
 
 &emsp;&emsp;http://supramol.jlu.edu.cn/newsshow.php?Id=355&SortID=4
-
+![liuhong](meeting_photo.jpg)
 ![liuhong](liuh.jpg)
