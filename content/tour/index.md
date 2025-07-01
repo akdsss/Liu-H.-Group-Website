@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-07-01
 
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 欢迎访问朱有亮课题组
+      - title: 👋 欢迎访问刘鸿课题组
         align: center
         background:
           image:

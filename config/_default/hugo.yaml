@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 朱有亮课题组 # Website name
-baseURL: 'http://www.zhuylgroup.com/' # Website URL
+title: 刘鸿课题组 # Website name
+baseURL: 'http://www.liuhgroup.com/' # Website URL
 
 ############################
 ## LANGUAGE
