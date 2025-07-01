@@ -1,41 +1,41 @@
 ---
 # Display name
-title: 徐佳磊
+title: 刘行
 
 # Full name (for SEO)
-first_name: 徐
-last_name: 佳磊
+first_name: 刘
+last_name: 行
 
 # Username (this should match the folder name)
 authors:
-  - Jia-Lei Xu
+  - Xing Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 直博；博士一年级
+role: 硕士；硕士一年级
 num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 吉林大学化学学院
-    url: ''
+  - name: 华南师范大学环境学院
+    url: 'http://soe.scnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣包括高通量计算与机器学习辅助材料设计等。
+bio: 研究兴趣包括细胞核内染色质折叠机制等。
 
 interests:
-  - 高通量计算与机器学习辅助材料设计
+  - 细胞核内染色质折叠机制
 
 education:
   courses:
-    - course: 物理化学专业博士
-      institution: 吉林大学化学学院
-      year: 2024.9 - 至今
-    - course: 化学工程与工艺专业学士
-      institution: 吉林大学化学学院
-      year: 2020.9 - 2024.7
+    - course: 物理化学专业硕士
+      institution: 华南师范大学环境学院
+      year: 2025.9 - 至今
+    - course: 化学生物学专业学士
+      institution: 南京大学化学化工学院
+      year: 2019.9 - 2023.7
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
