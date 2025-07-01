@@ -1,14 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-07-01
 type: landing
 
 
 sections:
   - block: markdown
     content:
-      title: 朱有亮课题组
+      title: 刘鸿课题组
       subtitle: ''
       text: 吉林大学朱有亮课题组专注于高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等领域的研究。自主研发了分子动力学模拟软件GALAMOST 和 PYGAMD 并取得了一系列重要应用，软件应用成果已经在science等国际著名期刊发表论文超过200篇。<img src="2024_group_people_0.jpg" class="center-image" />
 

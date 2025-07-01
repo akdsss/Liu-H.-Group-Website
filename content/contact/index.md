@@ -12,7 +12,7 @@ sections:
         欢迎加入有志青年加入我们课题组！华南师范大学环境学院，物理化学专业。
       email: hongliu@m.scnu.edu.cn
       address:
-        street: 番禺区广州大学城华南师范大学
+        street: 番禺区大学城外环西路378号
         city: 广州
         region: 广东
         postcode: '510006'
