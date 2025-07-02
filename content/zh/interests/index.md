@@ -1,7 +1,13 @@
 ---
 title: 研究方向
-date: 2025-07-02
-type: landing
+
+# Listing view
+view: card
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 
 ---
 1. 高分子界面聚合反应模拟方法开发及机理探索

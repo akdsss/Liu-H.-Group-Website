@@ -5,22 +5,18 @@ date: 2025-07-02
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
-      title: 刘鸿课题组
-      
-      subtitle: ''
-    design:
-      background:
-          image:
-            filename: LhGroup.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+      title: |
+        刘鸿课题组
+    image:
+        filename: LhGroup.jpg
+    text: |
+        <br>        
+        Welcome to visit Prof. Liu's Group website.
+    columns: '1'
+    spacing:
+      padding: ['20px', '0', '20px', '0']
 
   - block: collection
     content:

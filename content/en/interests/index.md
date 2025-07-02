@@ -1,7 +1,13 @@
 ---
 title: Research Interests
-date: 2025-07-02
-type: landing
+
+# Listing view
+view: card
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 
 ---
 1. Development of Simulation Methods and Mechanistic Exploration for Interfacial Polymerization of Macromolecules
