@@ -11,7 +11,7 @@ sections:
       
       subtitle: ''
     design:
-    background:
+      background:
           image:
             filename: LhGroup.jpg
             filters:
