@@ -4,14 +4,18 @@ title:
 date: 2025-07-02
 type: landing
 
-
 sections:
   - block: markdown
     content:
-      title: Prof. Liu's Group
+      title: 刘鸿课题组
+       background:
+          image:
+            filename: LhGroup.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
       subtitle: ''
-      text: <img src="2024_group_people_0.jpg" class="center-image" />
-
     design:
       columns: '1'
       spacing:
@@ -19,27 +23,9 @@ sections:
 
   - block: collection
     content:
-      title: 组内新闻
-      subtitle:
-      text:
-      count: 5
-      filters:
-        folders:
-          - post
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: showcase
-      columns: '1'
-  
-
-
-  - block: collection
-    content:
       title: 论文发表
       text: ""
-      count: 2
+      count: 5
       filters:
         folders:
           - publication

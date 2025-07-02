@@ -20,22 +20,9 @@ num: 1
 # Organizations/Affiliations
 organizations:
   - name: 华南师范大学环境学院
-    url: 'http://soe.scnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣包括细胞核内染色质折叠机制等。
-
-interests:
-  - 细胞核内染色质折叠机制
-
-education:
-  courses:
-    - course: 物理化学专业硕士
-      institution: 华南师范大学环境学院
-      year: 2025.9 - 至今
-    - course: 化学生物学专业学士
-      institution: 南京大学化学化工学院
-      year: 2019.9 - 2023.7
+bio: 细胞核内染色质折叠问题
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +31,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xujl24@mails.jlu.edu.cn'
+    link: 'mailto:2238242481@qq.com'
+  - text: 测试文本
+    link: 'mailto:2238242481@qq.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,6 +46,14 @@ email: '2238242481@qq.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - 学生
 ---
+# 教育经历
 
+- **2025.9 - present** 物理化学硕士, 华南师范大学
+
+- **2019.9 - 2023.7** 化学生物学本科, 南京大学化学化工学院
+
+# Reserch Areas
+
+- 细胞核内染色质折叠问题

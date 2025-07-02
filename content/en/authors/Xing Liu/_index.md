@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 刘行
+title: Xing Liu
 
 # Full name (for SEO)
-first_name: 刘
-last_name: 行
+first_name: Liu
+last_name: Xing
 
 # Username (this should match the folder name)
 authors:
@@ -14,28 +14,15 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士；硕士一年级
+role: 2025 - present: Master
 num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 华南师范大学环境学院
-    url: 'http://soe.scnu.edu.cn/'
+  - name: South China Normal University
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣包括细胞核内染色质折叠机制等。
-
-interests:
-  - 细胞核内染色质折叠机制
-
-education:
-  courses:
-    - course: 物理化学专业硕士
-      institution: 华南师范大学环境学院
-      year: 2025.9 - 至今
-    - course: 化学生物学专业学士
-      institution: 南京大学化学化工学院
-      year: 2019.9 - 2023.7
+bio: Chromatin folding problem in cell nucleus
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +31,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xujl24@mails.jlu.edu.cn'
+    link: 'mailto:2238242481@qq.com'
+  - text: test
+    link: 'mailto:2238242481@qq.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +48,12 @@ email: '2238242481@qq.com'
 user_groups:
   - Students
 ---
+# Education Experience
 
+- **2025.9 - present** Master of Physical Chemistry, South China Normal University
+
+- **2019.9 - 2023.7** Bachelor of Chemical Biology, School of Chemistry and Chemical Engineering, Nanjing University
+
+# Reserch Areas
+
+- Chromatin folding problem in cell nucleus

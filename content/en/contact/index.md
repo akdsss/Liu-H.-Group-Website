@@ -9,15 +9,15 @@ sections:
     content:
       title: Contact us
       text: |
-        欢迎加入有志青年加入我们课题组！华南师范大学环境学院，物理化学专业。
+        Welcome to join our research group! School of Environmental Science, South China Normal University, major in Physical Chemistry.
       email: hongliu@m.scnu.edu.cn
       phone: 020-39310252
       address:
-        street: 番禺区大学城外环西路378号
-        city: 广州
-        region: 广东
+        street: No. 378, Waihuan West Road, Panyu District
+        city: Guangzhou
+        region: Guangdong Province
         postcode: '510006'
-        country: 中国
+        country: China
         country_code: CN
     design:
       columns: '1'

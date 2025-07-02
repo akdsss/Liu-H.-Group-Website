@@ -3,8 +3,8 @@
 title: Someone Name
 
 # Full name (for SEO)
-first_name: Name
-last_name: Someone
+first_name: Someone
+last_name: Name
 
 # Username (this should match the folder name)
 authors:
@@ -14,38 +14,21 @@ authors:
 superuser: false
 
 # Role/position
-role: Job；Pro
+role: Coop. Prof.
 num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 某学校某学院
-    url: 'https://www.baidu.com/'
+  - name: XX University
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这是一段简短的个人介绍。
-
-interests:
-  - 研究方向A
-  - 研究方向B
-
-education:
-  courses:
-    - course: 某职位
-      institution: 某机构
-      year: 2020.9 - 至今
-    - course: 某专业学士
-      institution: 某大学
-      year: 2000.9 - 2020.6
+bio: This is a brief introduction.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'test@example.com'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

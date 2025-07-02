@@ -12,12 +12,12 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - 教师
-          - Cooperative Professors
-          - Students
+          - 合作教授
+          - 学生
       sort_by: Params.num
       sort_ascending: false
     design:
-      show_interests: false
+      show_interests: true
       show_role: true
-      show_social: false
+      show_social: true
 ---

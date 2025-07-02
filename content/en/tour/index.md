@@ -8,11 +8,11 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 欢迎访问刘鸿课题组
+      - title: Prof. Liu's Group
         align: center
         background:
           image:
-            filename: 2024_group_people_1.jpg
+            filename: LhGroup.jpg
             filters:
               brightness: 0.7
           position: right
