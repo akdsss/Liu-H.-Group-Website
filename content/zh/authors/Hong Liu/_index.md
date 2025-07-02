@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: **教授，博导，课题组组长**
+role: 教授，博导，课题组组长
 num: 1
 
 # Organizations/Affiliations
