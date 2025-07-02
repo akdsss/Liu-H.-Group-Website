@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: Job；Pro
-num: 3
+num: 1
 
 # Organizations/Affiliations
 organizations:
@@ -58,6 +58,6 @@ email: 'test@example.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 合作教授
+  - Cooperative Professors
 ---
 

@@ -10,7 +10,7 @@ sections:
     content:
       title: Prof. Liu's Group
       subtitle: ''
-      text: <img src="group_photo.jpg" class="center-image" />
+      text: <img src="2024_group_people_0.jpg" class="center-image" />
 
     design:
       columns: '1'
@@ -22,13 +22,10 @@ sections:
       title: NEWS
       subtitle:
       text:
-      count: 2
+      count: 5
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+        folders:
+          - post
       offset: 0
       order: desc
       page_type: post

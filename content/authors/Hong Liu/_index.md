@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Prof.
+role: Prof./Ph.D. supervisor/Research Group Leader
 num: 1
 
 # Organizations/Affiliations

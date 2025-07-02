@@ -1,13 +1,13 @@
 ---
 title: Contact us
-date: 2025-07-01
+date: 2025-07-02
 
 type: landing
 
 sections:
   - block: contact
     content:
-      title: 联系我们
+      title: Contact us
       text: |
         欢迎加入有志青年加入我们课题组！华南师范大学环境学院，物理化学专业。
       email: hongliu@m.scnu.edu.cn
