@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2025 - present: Master
+role: "2025 - present: Master"
 num: 1
 
 # Organizations/Affiliations
