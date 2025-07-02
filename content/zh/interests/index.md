@@ -1,14 +1,8 @@
 ---
-title:
+title:研究方向
 date: 2025-07-02
 type: landing
 
-sections:
-  - block: markdown
-    content:
-      title: 研究方向
-      subtitle: ''
-      text: 
 ---
 1. 高分子界面聚合反应模拟方法开发及机理探索
 

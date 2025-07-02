@@ -1,14 +1,8 @@
 ---
-title:
+title:Research Interests
 date: 2025-07-02
 type: landing
 
-sections:
-  - block: markdown
-    content:
-      title: Research Interests
-      subtitle: ''
-      text: 
 ---
 1. Development of Simulation Methods and Mechanistic Exploration for Interfacial Polymerization of Macromolecules
 

@@ -8,15 +8,16 @@ sections:
   - block: markdown
     content:
       title: 刘鸿课题组
-      background:
+      
+      subtitle: ''
+    design:
+    background:
           image:
             filename: LhGroup.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#666'
-      subtitle: ''
-    design:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
@@ -31,6 +32,6 @@ sections:
           - publication
         publication_type: 
     design:
-      view: card
+      view: citation
       columns: '1'
 ---

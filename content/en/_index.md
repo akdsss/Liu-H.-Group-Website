@@ -8,6 +8,9 @@ sections:
   - block: markdown
     content:
       title: Prof. Liu's Group
+      
+      subtitle: ''
+    design:
       background:
           image:
             filename: LhGroup.jpg
@@ -15,8 +18,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#666'
-      subtitle: ''
-    design:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
@@ -31,6 +32,6 @@ sections:
           - publication
         publication_type: 
     design:
-      view: card
+      view: citation
       columns: '1'
 ---

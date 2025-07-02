@@ -20,7 +20,9 @@ num: 1
 # Organizations/Affiliations
 organizations:
   - name: Key Laboratory of Theoretical Chemistry of Environment
+
   - name: School of enviroment
+  
   - name: South China Normal University
 
 # Short bio (displayed in user profile at end of posts)

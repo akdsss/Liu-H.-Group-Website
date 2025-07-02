@@ -20,6 +20,7 @@ num: 1
 # Organizations/Affiliations
 organizations:
   - name: 环境理论化学教育部重点实验室
+
   - name: 环境学院
 
   - name: 华南师范大学
@@ -52,8 +53,8 @@ highlight_name: true
 user_groups:
   - 教师
 ---
-# Biography
-Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.
+# 个人简介
+刘鸿教授的研究专注于反应性聚合物系统的介观行为及机械互锁聚合物的拓扑调控。他开发的粗粒化模拟策略耦联聚合反应模型，已被包括国际知名学者在内的多国研究者多次应用。其工作建立了微观分子反应介导的大分子体系结构与动力学的多尺度理论和模拟研究框架。迄今已在Science、Macromolecules等期刊发表同行评议论文100余篇。刘鸿教授作为项目负责人主持了4项国家自然科学基金项目，其中包括一项国家优秀青年科学基金项目。
 
 # 研究与教育经历
   - **2018.12 - present** 华南师范大学化学与环境学院，教授，博士生导师
