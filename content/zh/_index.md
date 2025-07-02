@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: 刘鸿课题组
-       background:
+      background:
           image:
             filename: LhGroup.jpg
             filters:
