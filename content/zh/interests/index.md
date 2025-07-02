@@ -1,5 +1,5 @@
 ---
-title:研究方向
+title: 研究方向
 date: 2025-07-02
 type: landing
 

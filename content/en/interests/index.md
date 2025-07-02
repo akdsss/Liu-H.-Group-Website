@@ -1,5 +1,5 @@
 ---
-title:Research Interests
+title: Research Interests
 date: 2025-07-02
 type: landing
 
