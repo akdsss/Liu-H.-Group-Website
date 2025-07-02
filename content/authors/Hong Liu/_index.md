@@ -1,51 +1,33 @@
 ---
 # Display name
-title: 刘鸿
+title: Liu Hong
 
 # Full Name (for SEO)
-first_name: 刘
-last_name: 鸿
+first_name: Liu
+last_name: Hong
 
 # Username (this should match the folder name)
 authors:
-  - HongKong Liu
+  - Hong Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-# role: 
+role: Prof.
 num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 华南师范大学环境学院
-    url: 'http://soe.scnu.edu.cn/'
+  - name: Key Laboratory of Theoretical Chemistry of Environment
+    url: ''
+  - name: School of enviroment
+    url: ''
+  - name: South China Normal University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究方向包括高分子界面聚合反应模拟方法开发及机理探索、纳米粒子表面接枝聚合物结构设计与复合物性能优化、聚合诱导自组装结构及形成机制等。
-
-interests:
-  - 高分子界面聚合反应模拟方法开发及机理探索
-  - 纳米粒子表面接枝聚合物结构设计与复合物性能优化
-  - 共价有机框架的生长动力学
-  - 超分子界面聚合动力学模拟研究
-  - 机械互锁高分子材料的性能与设计
-
-education:
-  courses:
-    - course: 教授，博士生导师
-      institution: 华南师范大学化学与环境学院
-      year: 2018.12－现在
-    - course: 讲师、副教授
-      institution: 吉林大学理论化学研究所
-      year: 2010.7－2018.12
-    - course: 物理化学专业博士学位
-      institution: 吉林大学理论化学研究所
-      year: 2005.9－2010.7
-    - course: 化学专业理学学士学位
-      institution: 吉林大学化学学院
-      year: 2001.9－2005.7
+bio: Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulations of mechanical interlocked polymers.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'hongliu@m.scnu.edu.cn'
+    link: 'mailto:hongliu@m.scnu.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,40 +52,65 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 教师
+  - Professors
 ---
-# 个人简介
-&emsp;&emsp;刘鸿，男，教授，博士生导师，德国洪堡学者，国家“优青”。研究方向为功能高分子材料理论设计与模拟。如何在大尺度模拟中协同考虑聚合物松弛与聚合反应动力学是当前高分子物理研究中公认的难点。刘鸿博士多年来一直从事功能性高分子材料的理论设计与模拟工作，基于高分子反应动力学模型发展了粗粒化分子动力学耦合聚合反应的方法，可准确且高效地描述多种反应类型。进一步利用该方法研究并阐明了表面引发聚合反应中影响聚合物刷结构与性质的因素，明确了接枝聚合物材料的浸润性增强机理，解决了实验中聚合反应调控材料结构方面的多个重要问题。近年来在Science, ACS Macro Letters，Macromolecules，J. Chem. Phys.等学术期刊发表研究论文90余篇。
+# Biography
+Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.
 
-# 学术兼职：
+# Research and Education Experience
+  - **2018.12-present** Professor, Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University
+  - **2012.9－2018.12**  Associate Professor, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
+    - **2015.5-2016.8** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
+  - **2010.7-2012.9** Lecture, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
+  - **2005.9-2010.7** Ph.D. student, Institute of Theoretical Chemistry, Jilin University
+Jilin University
+  - **2001.9-2005.7**: Undergraduate student, Department of Chemistry, Jilin University
 
-  - 国际期刊Polymers(JCR Q1, IF4.95)杂志编委
+# Research Interests
+  - 高分子界面聚合反应模拟方法开发及机理探索
+  - 纳米粒子表面接枝聚合物结构设计与复合物性能优化
+  - 共价有机框架的生长动力学
+  - 超分子界面聚合动力学模拟研究
+  - 机械互锁高分子材料的性能与设计
 
-  - 国际期刊Frontiers in Molecular Biosciences(JCR Q1, IF6.113)杂志编委
+# Editor Position
 
-  - 国际期刊Materials Futures（SLAB，IOP CAS and IOP Publishing）杂志青年编委
+  - 《Polymers》(JCR Q1, IF4.95) Editorial Board Member
 
-# ORCID: 0000-0002-7256-5751
+  - 《Frontiers in Molecular Biosciences》(JCR Q1, IF6.113) Editorial Board Member
 
-# 代表性论文：
+  - 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) Editorial Board Member
 
+# ORCID: [0000-0002-7256-5751](https://webofscience.clarivate.cn/wos/author/record/1443270)
 
-1. Liu, H.; Xue, Y.-H.; Zhu, Y.-L.; Gu, F.-L.; Lu, Z.-Y.*, Inverse Design of Molecular Weight Distribution in Controlled Polymerization via a One-Pot Reaction Strategy. Macromolecules 2020, 53 (15), 6409-6419.
+# Selected Publications
 
-2. Yi, C.; Liu, H.; Zhang, S.; Yang, Y.; Zhang, Y.; Lu, Z.; Kumacheva, E.*; Nie, Z.*, Self-limiting directional nanoparticle bonding governed by reaction stoichiometry. Science 2020, 369 (6509), 1369-1374.
+1. Wang, Y.; Lu, H.; Jia, X.-M.; Shi, A.-C.*; Zhou, J.*; Zhang, G.*; Liu, H.*,Entropy-Induced Localization and Sliding Dynamics of Rings on Polyrotaxane. *Macromolecules* 2024, 57(4), 1846-1858.
 
-3. Yan, Y.-D.; Xue, Y.-H.; Zhao, H.-Y.; Liu, H.*; Lu, Z.-Y.; Gu, F.-L., Insight into the Polymerization-Induced Self-Assembly via a Realistic Computer Simulation Strategy. Macromolecules 2019, 52 (16), 6169-6180.
+2. Zhang, Z.; Zhao, W.; Cheng, Z.; Zhang, G.*; Liu, H.*, Olympic Gels Formed through Catenation of DNARings Regulated by Topoisomerase II: ACoarse-Grained Model. *The Journal of Chemical Physics* 2024, 160(5), 054906.
 
-4. Xing, J.-Y.; Xue, Y.-H.; Lu, Z.-Y.*; Liu, H.*, In-Depth Analysis of Supramolecular Interfacial Polymerization via a Computer Simulation Strategy. Macromolecules 2019, 52 (17), 6393-6404.
+3. Mao, J.; Zhou, J.*; Liu, H.*, One-pot strategy for the preparation of nanoparticles grafted with bimodal polymers: An in-silico insight. *Composites Science and Technology* 2024, 251, 110583.
 
-5. Liu, H.; Zhao, H.-Y.; Müller-Plathe, F.; Qian, H.-J.; Sun, Z.-Y.; Lu, Z.-Y.*, Distribution of the Number of Polymer Chains Grafted on Nanoparticles Fabricated by Grafting-to and Grafting-from Procedures. Macromolecules 2018, 51 (10), 3758-3766.
+4. Liu, W.; Zhang, J.*; Liu, H.*,Morphology evolution and dynamics of sliding nanodroplets under external forces: Amolecular dynamics study. *Physics of Fluids* 2023, 35(8), 082010.
 
-6. Xue, Y.-H.; Quan, W.; Liu, X.-L.; Han, C.; Li, H.; Liu, H.*, Dependence of Grafted Polymer Property on the Initiator Site Distribution in Surface-Initiated Polymerization: A Computer Simulation Study. Macromolecules 2017, 50 (17), 6482-6488.
+5. Wang, Y.; Gan, H.-L.; Liang, C.-X.; Zhang, Z.-Y.; Xie, M.; Xing, J.-Y.; Xue, Y.-H.; Liu, H.*, Network structure and properties of crosslinked bio-based epoxy resin composite: An in-silico multiscale strategy with dynamic curing reaction process. *Giant* 2021, 7, 100063.
 
-7. Liu, H.*; Zhu, Y.-L.; Lu, Z.-Y.; Müller-Plathe, F., A kinetic chain growth algorithm in coarse-grained simulations. Journal of Computational Chemistry 2016, 37 (30), 2634-2646.
+6. Liu, H.; Xue, Y.-H.; Zhu, Y.-L.; Gu, F.-L.; Lu, Z.-Y.*, Inverse Design of Molecular Weight Distribution in ControlledPolymerization via a One-Pot Reaction Strategy. *Macromolecules* 2020, 53(15), 6409-6419.
 
-8. Liu, H.; Zhu, Y. L.; Zhang, J.; Lu, Z. Y.*; Sun, Z. Y.*, Influence of Grafting Surface Curvature on Chain Polydispersity and Molecular Weight in Concave Surface-Initiated Polymerization. ACS Macro Letters 2012, 1 (11), 1249-1253.
+7. Yi, C.;Liu, H.; Zhang, S.; Yang, Y.; Zhang, Y.; Lu, Z.; Kumacheva, E.*; Nie, Z.*, Self-limiting directionalnanoparticle bonding governed by reaction stoichiometry. *Science* 2020, 369 (6509), 1369-1374.
 
-9. Liu, H.; Li, M.*; Lu, Z. Y.*; Zhang, Z. G.; Sun, C. C.; Cui, T., Multiscale Simulation Study on the Curing Reaction and the Network Structure in a Typical Epoxy System. Macromolecules 2011, 44 (21), 8650-8660.
+8. Yan, Y.-D.; Xue, Y.-H.; Zhao, H.-Y.; Liu, H.*; Lu, Z.-Y.; Gu, F.-L., Insight into the Polymerization-Induced Self-Assembly via a Realistic Computer Simulation Strategy. *Macromolecules* 2019,52(16), 6169-6180.
 
-10. Liu, H.; Li, M.; Lu, Z. Y.*; Zhang, Z. G.; Sun, C. C., Influence of Surface-Initiated Polymerization Rate and Initiator Density on the Properties of Polymer Brushes. Macromolecules 2009, 42 (7), 2863-2872.
+9. Xing, J.-Y.; Xue, Y.-H.; Lu, Z.-Y.*; Liu, H.*, In-Depth Analysis of Supramolecular Interfacial Polymerization via a Computer Simulation Strategy. *Macromolecules* 2019,52(17), 6393-6404.
+
+10. Liu, H.; Zhao, H.-Y.; Müller-Plathe, F.; Qian, H.-J.; Sun, Z.-Y.; Lu, Z.-Y.*, Distribution of the Number of Polymer Chains Grafted on Nanoparticles Fabricated by Grafting-to and Grafting-from Procedures. *Macromolecules* 2018,51(10), 3758-3766.
+
+11. Xue, Y.-H.; Quan, W.; Liu, X.-L.; Han, C.; Li, H.; Liu, H.*,Dependence of Grafted Polymer Property on the Initiator Site Distribution in Surface-Initiated Polymerization: A Computer Simulation Study. *Macromolecules* 2017,50(17), 6482-6488.
+
+12. Liu, H.*; Zhu, Y.-L.; Lu, Z.-Y.; Müller-Plathe, F., Akinetic chain growthalgorithm in coarse-grained simulations. *Journal of Computational Chemistry* 2016,37(30), 2634-2646.
+
+13. Liu, H.; Zhu, Y. L.; Zhang, J.; Lu, Z. Y.*; Sun, Z. Y.*, Influence of Grafting Surface Curvature on Chain Polydispersity and Molecular Weight in Concave Surface-Initiated Polymerization. *ACSMacro Letters* 2012,1(11), 1249-1253.
+
+14. Liu, H.; Li, M.*; Lu, Z. Y.*; Zhang, Z. G.; Sun, C. C.; Cui, T., Multiscale Simulation Study on the Curing Reaction and the Network Structure in a Typical Epoxy System. *Macromolecules* 2011,44(21), 8650-8660.
+
+15. Liu, H.; Li, M.; Lu, Z. Y.*; Zhang, Z. G.; Sun, C. C., Influence of Surface-Initiated Polymerization Rate and Initiator Density on the Properties of Polymer Brushes. *Macromolecules* 2009,42(7), 2863-2872.

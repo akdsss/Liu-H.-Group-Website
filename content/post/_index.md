@@ -1,5 +1,5 @@
 ---
-title: 组内新闻
+title: Group News
 
 # Listing view
 view: compact

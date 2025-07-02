@@ -1,5 +1,5 @@
 ---
-title: 联系我们
+title: Contact us
 date: 2025-07-01
 
 type: landing

@@ -4,21 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 浏览
+  - name: HOME
     url: tour
     weight: 20
-  - name: 研究方向
+  - name: RESEARCH
     url: interests
     weight: 30
-  - name: 组内成员
+  - name: MEMBERS
     url: people
     weight: 40
-  - name: 组内新闻
+  - name: NEWS
     url: post
     weight: 50
-  - name: 发表论文
+  - name: PUBLICATIONS
     url: publication
     weight: 60
-  - name: 联系我们
+  - name: PROJECTS
+    url: project
+    weight: 60
+  - name: CONTACT
     url: contact
     weight: 70
