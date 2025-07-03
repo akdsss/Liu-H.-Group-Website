@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2025-07-02
+date: 2025-07-03
 type: landing
 
 sections:
@@ -13,10 +13,7 @@ sections:
         filename: LhGroup.jpg
     text: |
         <br>        
-        Welcome to visit Prof. Liu's Group website.
-    columns: '1'
-    spacing:
-      padding: ['20px', '0', '20px', '0']
+        欢迎访问刘鸿课题组！
 
   - block: collection
     content:

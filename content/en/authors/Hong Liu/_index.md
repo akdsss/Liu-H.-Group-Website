@@ -54,7 +54,18 @@ user_groups:
   - Professors
 ---
 # Biography
-Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.
+<!DOCTYPE html>
+<html lang="en">           <!-- 必须声明语言以启用hyphens -->
+<head>
+  <link rel="stylesheet" href="assets\scss\template.scss">
+</head>
+<body>
+  <div class="text-container">
+    Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.
+  </div>
+</body>
+</html>
+
 
 # Research and Education Experience
   - **2018.12 - present** Professor,PhD Supervisor, Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University

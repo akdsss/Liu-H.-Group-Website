@@ -15,3 +15,10 @@
   width: 1000; /* 确保设置了宽度 */
 }
 
+.text-container {
+  width: 300px;             /* 限定容器宽度触发换行 */
+  overflow-wrap: break-word;
+  text-align: justify;
+  hyphens: auto;            /* 需设置html标签lang="en" */
+  border: 1px solid #ddd;   /* 可视化边界（可选） */
+}
